@@ -1,0 +1,265 @@
+{
+  "generated_at": "2026-10-12T21:43:07",
+  "job_title": "Associate – Founder’s Office",
+  "company": "NovaWell Consumer Brands",
+  "ats_compatibility_score": 54,
+  "score_note": "Heuristic estimate based on keyword coverage. This is not an actual score from an employer's ATS.",
+  "keyword_coverage": {
+    "required_skills_percent": 41.7,
+    "preferred_skills_percent": 100.0,
+    "all_jd_terms_percent": 52.6,
+    "matched_count": 30,
+    "total_count": 57
+  },
+  "structure_score_percent": 100,
+  "section_checks": {
+    "Candidate name": true,
+    "Professional headline": true,
+    "Professional summary": true,
+    "Core expertise": true,
+    "Work experience": true,
+    "Education": true,
+    "Certifications": true
+  },
+  "matched_keywords": [
+    {
+      "keyword": "Analytical and problem-solving skills",
+      "category": "Required skills"
+    },
+    {
+      "keyword": "Building business dashboards",
+      "category": "Required skills"
+    },
+    {
+      "keyword": "Market research",
+      "category": "Required skills"
+    },
+    {
+      "keyword": "Competitor benchmarking",
+      "category": "Required skills"
+    },
+    {
+      "keyword": "Pricing analysis",
+      "category": "Required skills"
+    },
+    {
+      "keyword": "Working knowledge of Power BI, SQL, or other business intelligence tools",
+      "category": "Preferred skills"
+    },
+    {
+      "keyword": "Excel",
+      "category": "Tools and technologies"
+    },
+    {
+      "keyword": "Power BI",
+      "category": "Tools and technologies"
+    },
+    {
+      "keyword": "SQL",
+      "category": "Tools and technologies"
+    },
+    {
+      "keyword": "Founder’s Office",
+      "category": "Domain keywords"
+    },
+    {
+      "keyword": "Strategic initiatives",
+      "category": "Domain keywords"
+    },
+    {
+      "keyword": "Business operations",
+      "category": "Domain keywords"
+    },
+    {
+      "keyword": "Sales trends",
+      "category": "Domain keywords"
+    },
+    {
+      "keyword": "Strategy",
+      "category": "ATS keywords"
+    },
+    {
+      "keyword": "Business Operations",
+      "category": "ATS keywords"
+    },
+    {
+      "keyword": "Program Management",
+      "category": "ATS keywords"
+    },
+    {
+      "keyword": "Business Intelligence",
+      "category": "ATS keywords"
+    },
+    {
+      "keyword": "GTM Strategy",
+      "category": "ATS keywords"
+    },
+    {
+      "keyword": "Market Research",
+      "category": "ATS keywords"
+    },
+    {
+      "keyword": "Benchmarking",
+      "category": "ATS keywords"
+    },
+    {
+      "keyword": "SOPs",
+      "category": "ATS keywords"
+    },
+    {
+      "keyword": "KPIs",
+      "category": "ATS keywords"
+    },
+    {
+      "keyword": "Dashboards",
+      "category": "ATS keywords"
+    },
+    {
+      "keyword": "Identify",
+      "category": "Important action verbs"
+    },
+    {
+      "keyword": "Analyse",
+      "category": "Important action verbs"
+    },
+    {
+      "keyword": "Build",
+      "category": "Important action verbs"
+    },
+    {
+      "keyword": "Lead",
+      "category": "Important action verbs"
+    },
+    {
+      "keyword": "Track",
+      "category": "Important action verbs"
+    },
+    {
+      "keyword": "Support",
+      "category": "Important action verbs"
+    },
+    {
+      "keyword": "Coordinate",
+      "category": "Important action verbs"
+    }
+  ],
+  "missing_keywords": [
+    {
+      "keyword": "Ability to translate data into business insights",
+      "category": "Required skills"
+    },
+    {
+      "keyword": "Advanced Excel skills",
+      "category": "Required skills"
+    },
+    {
+      "keyword": "Managing cross-functional projects and multiple priorities",
+      "category": "Required skills"
+    },
+    {
+      "keyword": "Stakeholder management",
+      "category": "Required skills"
+    },
+    {
+      "keyword": "Communication skills",
+      "category": "Required skills"
+    },
+    {
+      "keyword": "Presentation skills",
+      "category": "Required skills"
+    },
+    {
+      "keyword": "Financial modeling",
+      "category": "Required skills"
+    },
+    {
+      "keyword": "Consumer Brands",
+      "category": "Domain keywords"
+    },
+    {
+      "keyword": "Growth projects",
+      "category": "Domain keywords"
+    },
+    {
+      "keyword": "Operational metrics",
+      "category": "Domain keywords"
+    },
+    {
+      "keyword": "Customer behaviour",
+      "category": "Domain keywords"
+    },
+    {
+      "keyword": "Go-to-market (GTM) strategy",
+      "category": "Domain keywords"
+    },
+    {
+      "keyword": "Standard operating procedures (SOPs)",
+      "category": "Domain keywords"
+    },
+    {
+      "keyword": "Key performance indicators (KPIs)",
+      "category": "Domain keywords"
+    },
+    {
+      "keyword": "Automation solutions",
+      "category": "Domain keywords"
+    },
+    {
+      "keyword": "Product launches",
+      "category": "Domain keywords"
+    },
+    {
+      "keyword": "Consulting",
+      "category": "ATS keywords"
+    },
+    {
+      "keyword": "Cross-functional Leadership",
+      "category": "ATS keywords"
+    },
+    {
+      "keyword": "Financial Models",
+      "category": "ATS keywords"
+    },
+    {
+      "keyword": "Work",
+      "category": "Important action verbs"
+    },
+    {
+      "keyword": "Execute",
+      "category": "Important action verbs"
+    },
+    {
+      "keyword": "Implement",
+      "category": "Important action verbs"
+    },
+    {
+      "keyword": "Develop",
+      "category": "Important action verbs"
+    },
+    {
+      "keyword": "Monitor",
+      "category": "Important action verbs"
+    },
+    {
+      "keyword": "Communicate",
+      "category": "Important action verbs"
+    },
+    {
+      "keyword": "Conduct",
+      "category": "Important action verbs"
+    },
+    {
+      "keyword": "Prepare",
+      "category": "Important action verbs"
+    }
+  ],
+  "matching_recommendations": [
+    "Frame the Product Master Cost Sheet and TCO evaluation explicitly under 'Financial Modeling & Cost Analysis'.",
+    "Explicitly mention executive updates, slide decks, and board presentations prepared for founders when detailing reporting workflows.",
+    "Highlight D2C consumer brand context at Nutrabay prominently, as NovaWell is a consumer brand company."
+  ],
+  "priority_actions": [
+    "Review missing required skills. Add them only where supported by genuine experience or qualifications.",
+    "Review the highest-priority missing keywords and revise the CV without inventing experience."
+  ]
+}

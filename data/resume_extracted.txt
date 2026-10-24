@@ -1,0 +1,60 @@
+============================================================
+MASTER RESUME EXTRACTED
+============================================================
+VISHAL KUMAR
+Strategy & Business Operations  |  Founder’s Office  |  AI Automation & Analytics
+Delhi NCR •  +91 9590311151 • kumarvishal9341@gmail.com • linkedin.com/in/vishalk23
+EDUCATION
+MBA  |  Indian Institute of Technology (IIT), Kanpur  |  CGPA: 8.00  |  2023–2025
+B.Tech.  |  National Institute of Technology (NIT), Karnataka  |  CGPA: 6.25  |  2014–2018
+PROFESSIONAL SUMMARY
+Strategy and Business Operations professional with 5+ years of experience across D2C, education and technology ventures, including 1+ year in a Founder’s Office role at Nutrabay. Experienced in translating leadership priorities into cross-functional programs spanning operations, procurement, sales, NPD, analytics, AI automation and process transformation. Strong track record of building data-led systems, automating workflows and driving execution with founders and senior stakeholders.
+CORE COMPETENCIES & TOOLS
+Strategy & Operations  •  Founder’s Office  •  Program Management  •  Process Transformation  •  AI & Workflow Automation  •  Business Analytics  •  Procurement & Vendor Management  •  NPD & Pricing  •  GTM  •  KPI / OKR Management  •  Cross-functional Leadership
+Excel  •  Power BI  •  SQL  •  Google Google Apps Script | Gemini APIs  •  Google Workspace  •  Keka  •  Slack  •  HubSpot  •  Looker Studio  •  Amazon Seller Central  •  Notion  •  Trello  •  Figma  •  Canva  •  Python
+PROFESSIONAL EXPERIENCE
+Nutrabay Retail Pvt. Ltd.  |  Associate – Founder’s Office  |  Jul’25 – Present
+Operations Strategy | AI Automation | Business Analytics | Procurement | Program Management
+Built a Google Google Apps Script | Gemini APIs vendor-slot booking platform for manufacturers and raw-material suppliers, reducing manual coordination by 90% and minimizing warehouse waiting time and detention costs.
+Converted 20+ SOPs into AI-generated multilingual training videos using Google AI tools, improving onboarding efficiency and process compliance across operations teams.
+Led end-to-end implementation of Crest AI for Procurement and an offline-sales automation platform; owned BRDs, UAT, vendor coordination and cross-functional rollout.
+Automated HR workflows by integrating Keka with Slack, streamlining employee notifications, approval workflows and operational communication across departments.
+Redesigned the OKR framework to cascade company objectives into department and employee KPIs, enabling transparent performance tracking and supporting variable-pay calculations.
+Built Power BI dashboards for Offline Sales, enabling leadership to track sales performance, distributor productivity, regional trends and business KPIs through real-time reporting.
+Developed a centralized Product Master Cost Sheet covering raw materials, packaging, BOM, manufacturing cost and pricing intelligence, strengthening procurement decisions and cost visibility.
+Built procurement analytics dashboards tracking supplier performance, RM pricing trends, purchase efficiency and inventory insights; supported NPD through market research, competitor benchmarking and pricing analysis.
+Built an AI + Google Apps Script | Gemini APIs job-requisition workflow that generates JDs from requester inputs, routes them to TA for approval, and automatically sends approved JDs to the role’s reporting manager.
+Evaluated Google Workspace vs Microsoft 365 using SWOT, TCO, security and device-management analysis; assessed Google Endpoint Management for centralized Windows/macOS administration and avoided a complete Microsoft migration.
+Built AI-powered scheduled reporting workflows with role-based access and an online/offline price tracker to improve price consistency, support channel profitability and strengthen offline sales execution.
+Partnered with Procurement, Sales, Finance, HR, Product, Supply Chain, Technology and Leadership to identify automation opportunities, standardize processes and drive AI-enabled operational improvements.
+Built and deployed a task management platform using Claude, GitHub, and Netlify, improving cross-functional task visibility, ownership, and execution tracking for small teams across departments.
+VISHAL KUMAR  |  MASTER RESUME
+PROFESSIONAL EXPERIENCE — CONTINUED
+Dakshana India Educational Trust Fund  |  Program Manager – Operations & Strategy  |  Oct’19 – May’23
+National Education Operations  |  MIS  |  Program Strategy  |  Team Leadership
+• Collaborated with CAO, COO and CEO to align academic operations, MIS reporting and strategic execution across 8+ residential centres.
+• Directed test operations for 20K+ students across 600+ centres; improved dashboard usage to enable faster academic and operational decisions.
+• Orchestrated relocation for 1,200+ scholars, reducing cost by 25% and delays by 30% through vendor and route optimization.
+• Engineered a 60K+ question SQL-based MIS, reducing reporting time by 50% and enabling campus-wise KPI tracking and performance visibility.
+• Oversaw ₹60L+ annual procurement; implemented vendor scoring to reduce delivery delays and control budget slippage while streamlining workflows through SOPs and SLAs.
+• Mentored 17+ team members and led OKR reviews; improved execution speed and reduced academic turnaround time by 40% across centres.
+MokkoMotto Electronics Pvt. Ltd.  |  Founder’s Office Intern  |  Sep’24 – Apr’25
+GTM  |  B2B Sales  |  CRM  |  Digital Growth
+• Supported founder-led GTM and fundraising work through market sizing, CAGR analysis, competitive benchmarking and gap assessment.
+• Secured ₹18L+ in B2B/D2C orders through corporate gifting campaigns and CRM-led multi-channel outreach; built a 900+ unit pipeline by onboarding 6+ enterprise clients.
+• Executed 3 A/B-tested LinkedIn campaigns generating 150+ pre-orders; improved SEO from 54 to 96 through plug-in audits, sitemap fixes, meta tags and keyword tagging.
+1-Cliq  |  Business Strategy Intern  |  Apr’24 – May’24
+E-commerce Pilot  |  GTM  |  Vendor Onboarding
+• Performed TAM and competitor analysis, onboarded 20+ vendors for an IIT Kanpur pilot, and supported pricing, user research and GTM strategy.
+SELECTED ACHIEVEMENTS
+• PPO – MokkoMotto for ownership across GTM strategy, B2B sales funnel and digital marketing.
+• Best Employee – Dakshana for digitizing the exam system and leading operations across 8 centres.
+• Full Scholarship – Dakshana; selected in the top 0.1% nationwide for fully funded JEE preparation based on merit and interviews.
+• Winner – IIT Kanpur Hall 11 Badminton (Singles).
+CERTIFICATIONS
+Lean Six Sigma Green Belt – KPMG  •  Google Data Analytics Professional Certificate – Coursera  •  Digital Marketing – HubSpot Academy  •  Agile Fundamentals – Udemy  •  Project Management Professional (PMP) – Udemy  •  Microsoft Excel 2023: Beginner to Expert – Udemy
+LEADERSHIP
+Academic Manager – AnC, IIT Kanpur  •  Vice President – Artist Forum, NIT Surathkal  •  Choreography Lead – Dance Crew, NIT Surathkal
+============================================================
+
+Characters extracted: 6876

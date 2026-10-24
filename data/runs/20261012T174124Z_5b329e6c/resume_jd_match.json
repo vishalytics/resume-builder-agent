@@ -1,0 +1,123 @@
+{
+  "overall_match": 85,
+  "strong_matches": [
+    {
+      "requirement": "Strategy & Business Operations",
+      "category": "Domain",
+      "evidence": "Founder’s Office role at Nutrabay; experience in translating leadership priorities into cross-functional programs spanning operations, procurement, sales, NPD, analytics, AI automation and process transformation.",
+      "company": "Nutrabay Retail Pvt. Ltd.",
+      "role": "Associate – Founder’s Office",
+      "project": "Founder's Office Strategy & Operations",
+      "metrics": [
+        "5+ years of experience"
+      ]
+    }
+  ],
+  "partial_matches": [
+    {
+      "requirement": "Procurement and supply chain operations",
+      "category": "Domain",
+      "evidence": "Led implementation of Crest AI for Procurement; built procurement analytics dashboards tracking supplier performance, RM pricing trends, purchase efficiency.",
+      "gap": "Experience is strong on the analytical and tech-enabler side of procurement, less focused on direct, large-scale supply chain logistics or inventory warehousing management.",
+      "company": "Nutrabay Retail Pvt. Ltd.",
+      "role": "Associate – Founder’s Office",
+      "metrics": []
+    }
+  ],
+  "no_evidence": [
+    {
+      "requirement": "Unit economics and deep inventory planning",
+      "category": "Domain",
+      "reason": "Resume mentions procurement cost visibility and BOM cost sheets but lacks explicit evidence of managing inventory planning, shelf-life, or unit-level economic modeling at scale."
+    },
+    {
+      "requirement": "Pricing strategy",
+      "category": "Domain",
+      "reason": "Candidate has worked on pricing intelligence and an online/offline price tracker, but explicit ownership of pricing strategy (margin setting, dynamic pricing modeling) is not documented."
+    },
+    {
+      "requirement": "Build and maintain dashboards using Excel and Power BI",
+      "reason": "Model-suggested evidence did not pass deterministic resume/JD verification."
+    },
+    {
+      "requirement": "Identify repetitive workflows suitable for automation using AI tools, APIs, low-code platforms, or scripting",
+      "reason": "Model-suggested evidence did not pass deterministic resume/JD verification."
+    },
+    {
+      "requirement": "Develop standard operating procedures (SOPs) and establish performance measurement frameworks",
+      "reason": "Model-suggested evidence did not pass deterministic resume/JD verification."
+    },
+    {
+      "requirement": "MBA",
+      "reason": "Model-suggested evidence did not pass deterministic resume/JD verification."
+    },
+    {
+      "requirement": "Market research, competitor benchmarking, and business analysis",
+      "reason": "Model-suggested evidence did not pass deterministic resume/JD verification."
+    }
+  ],
+  "keyword_matches": [
+    "Strategy",
+    "Business Operations",
+    "Program Management",
+    "Power BI",
+    "SQL",
+    "AI tools",
+    "Automation",
+    "Procurement",
+    "Cross-functional",
+    "SOPs",
+    "KPIs",
+    "Data-driven",
+    "MBA"
+  ],
+  "missing_keywords": [
+    "Inventory planning",
+    "Unit economics",
+    "Dynamic pricing"
+  ],
+  "recommended_resume_keywords": [
+    "Unit Economics",
+    "Inventory Optimization",
+    "Supply Chain Strategy",
+    "Competitor Benchmarking",
+    "Strategic Business Cases"
+  ],
+  "recommended_experiences": [
+    "Highlight the 'Product Master Cost Sheet' project specifically under 'Procurement & Unit Economics' to address the inventory/cost requirement.",
+    "Elaborate on the 'TAM and competitor analysis' project at 1-Cliq to showcase strategic depth."
+  ],
+  "recommended_projects": [
+    "Project: Procurement & Cost Optimization Framework - Explicitly quantify the 'Product Master Cost Sheet' impact on margin improvement."
+  ],
+  "skill_gaps": [
+    "Direct experience with large-scale Inventory Management Systems (IMS) or WMS (Warehouse Management Systems) software.",
+    "Exposure to complex Dynamic Pricing strategy modeling."
+  ],
+  "priority_changes": [
+    "Move 'Procurement & Cost Analysis' to the top of the Nutrabay achievements to emphasize domain alignment with NovaWell's FMCG/Consumer focus.",
+    "Add a specific bullet point regarding 'Unit Economics' and 'Cost-Benefit Analysis' when describing the implementation of the Product Master Cost Sheet."
+  ],
+  "unverified_model_matches": [
+    {
+      "requirement": "Build and maintain dashboards using Excel and Power BI",
+      "reason": "Model-suggested evidence did not pass deterministic resume/JD verification."
+    },
+    {
+      "requirement": "Identify repetitive workflows suitable for automation using AI tools, APIs, low-code platforms, or scripting",
+      "reason": "Model-suggested evidence did not pass deterministic resume/JD verification."
+    },
+    {
+      "requirement": "Develop standard operating procedures (SOPs) and establish performance measurement frameworks",
+      "reason": "Model-suggested evidence did not pass deterministic resume/JD verification."
+    },
+    {
+      "requirement": "MBA",
+      "reason": "Model-suggested evidence did not pass deterministic resume/JD verification."
+    },
+    {
+      "requirement": "Market research, competitor benchmarking, and business analysis",
+      "reason": "Model-suggested evidence did not pass deterministic resume/JD verification."
+    }
+  ]
+}

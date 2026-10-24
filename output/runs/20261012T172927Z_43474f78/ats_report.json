@@ -1,0 +1,222 @@
+{
+  "generated_at": "2026-10-12T23:02:00",
+  "job_title": "Operations Strategy Associate",
+  "company": "Northstar Consumer Products",
+  "ats_compatibility_score": 42,
+  "score_note": "Heuristic estimate = 50% required-skill coverage + 15% preferred-skill coverage + 35% coverage of all listed JD terms. Empty groups score 0%. This is not an actual score from an employer's ATS.",
+  "keyword_coverage": {
+    "required_skills_percent": 42.9,
+    "preferred_skills_percent": 0.0,
+    "all_jd_terms_percent": 58.1,
+    "matched_count": 18,
+    "total_count": 31
+  },
+  "structure_score_percent": 100,
+  "section_checks": {
+    "Candidate name": true,
+    "Professional headline": true,
+    "Professional summary": true,
+    "Core expertise": true,
+    "Work experience": true,
+    "Education": true,
+    "Certifications": true
+  },
+  "matched_keywords": [
+    {
+      "keyword": "Business operations",
+      "category": "Required skills"
+    },
+    {
+      "keyword": "Strategy",
+      "category": "Required skills"
+    },
+    {
+      "keyword": "Program management",
+      "category": "Required skills"
+    },
+    {
+      "keyword": "Excel",
+      "category": "Tools and technologies"
+    },
+    {
+      "keyword": "Power BI",
+      "category": "Tools and technologies"
+    },
+    {
+      "keyword": "SQL",
+      "category": "Tools and technologies"
+    },
+    {
+      "keyword": "Operations",
+      "category": "Domain keywords"
+    },
+    {
+      "keyword": "Supply chain",
+      "category": "Domain keywords"
+    },
+    {
+      "keyword": "Pricing",
+      "category": "Domain keywords"
+    },
+    {
+      "keyword": "KPIs",
+      "category": "ATS keywords"
+    },
+    {
+      "keyword": "Cross-functional",
+      "category": "ATS keywords"
+    },
+    {
+      "keyword": "Workflow automation",
+      "category": "ATS keywords"
+    },
+    {
+      "keyword": "Build",
+      "category": "Important action verbs"
+    },
+    {
+      "keyword": "Track",
+      "category": "Important action verbs"
+    },
+    {
+      "keyword": "Coordinate",
+      "category": "Important action verbs"
+    },
+    {
+      "keyword": "Identify",
+      "category": "Important action verbs"
+    },
+    {
+      "keyword": "Conduct",
+      "category": "Important action verbs"
+    },
+    {
+      "keyword": "Prepare",
+      "category": "Important action verbs"
+    }
+  ],
+  "missing_keywords": [
+    {
+      "keyword": "Analytical skills",
+      "category": "Required skills",
+      "evidence_status": "not_verified_in_resume_evidence"
+    },
+    {
+      "keyword": "Problem-solving skills",
+      "category": "Required skills",
+      "evidence_status": "not_verified_in_resume_evidence"
+    },
+    {
+      "keyword": "Project coordination",
+      "category": "Required skills",
+      "evidence_status": "not_verified_in_resume_evidence"
+    },
+    {
+      "keyword": "Stakeholder communication",
+      "category": "Required skills",
+      "evidence_status": "matcher_reports_source_support_but_cv_omits_term"
+    },
+    {
+      "keyword": "Consumer products experience",
+      "category": "Preferred skills",
+      "evidence_status": "not_verified_in_resume_evidence"
+    },
+    {
+      "keyword": "Direct-to-consumer experience",
+      "category": "Preferred skills",
+      "evidence_status": "not_verified_in_resume_evidence"
+    },
+    {
+      "keyword": "Consumer products",
+      "category": "Domain keywords",
+      "evidence_status": "matcher_reports_source_support_but_cv_omits_term"
+    },
+    {
+      "keyword": "Direct-to-consumer",
+      "category": "Domain keywords",
+      "evidence_status": "matcher_reports_source_support_but_cv_omits_term"
+    },
+    {
+      "keyword": "Go-to-market",
+      "category": "Domain keywords",
+      "evidence_status": "matcher_reports_source_support_but_cv_omits_term"
+    },
+    {
+      "keyword": "Process improvements",
+      "category": "ATS keywords",
+      "evidence_status": "matcher_reports_source_support_but_cv_omits_term"
+    },
+    {
+      "keyword": "Market research",
+      "category": "ATS keywords",
+      "evidence_status": "supported_in_resume_not_presented_in_cv"
+    },
+    {
+      "keyword": "Recommend",
+      "category": "Important action verbs",
+      "evidence_status": "not_verified_in_resume_evidence"
+    },
+    {
+      "keyword": "Communicate",
+      "category": "Important action verbs",
+      "evidence_status": "supported_in_resume_not_presented_in_cv"
+    }
+  ],
+  "relevant_experience_evidence": {
+    "strong_matches": [
+      {
+        "requirement": "Build operating dashboards and track business KPIs for leadership",
+        "category": "Operational Execution",
+        "evidence": "Built Power BI dashboards for Offline Sales, enabling leadership to track sales performance, distributor productivity, regional trends and business KPIs through real-time reporting.",
+        "company": "Nutrabay Retail Pvt. Ltd.",
+        "role": "Associate – Founder’s Office",
+        "project": "Power BI Sales Dashboard",
+        "metrics": [
+          "Real-time reporting of sales performance and distributor productivity"
+        ]
+      },
+      {
+        "requirement": "Coordinate cross-functional projects with operations, sales, finance, supply chain, and product teams",
+        "category": "Program Management",
+        "evidence": "Partnered with Procurement, Sales, Finance, HR, Product, Supply Chain, Technology and Leadership to identify automation opportunities, standardize processes and driven AI-enabled operational improvements.",
+        "company": "Nutrabay Retail Pvt. Ltd.",
+        "role": "Associate – Founder’s Office",
+        "project": "Cross-functional Automation Initiatives",
+        "metrics": []
+      }
+    ],
+    "partial_matches": []
+  },
+  "unsupported_or_unverified_requirements": [
+    {
+      "requirement": "Identify manual processes and recommend workflow automation and process improvements",
+      "reason": "Model-suggested evidence did not pass deterministic resume/JD verification."
+    },
+    {
+      "requirement": "Conduct market and competitor research to support pricing and go-to-market decisions",
+      "reason": "Model-suggested evidence did not pass deterministic resume/JD verification."
+    },
+    {
+      "requirement": "Tools: Excel, Power BI, SQL",
+      "reason": "Model-suggested evidence did not pass deterministic resume/JD verification."
+    },
+    {
+      "requirement": "Consumer products and Direct-to-consumer experience",
+      "reason": "Model-suggested evidence did not pass deterministic resume/JD verification."
+    }
+  ],
+  "matching_recommendations": [
+    "Keep 'Analytical skills' unclaimed unless the candidate can verify supporting experience or qualification.",
+    "Keep 'Problem-solving skills' unclaimed unless the candidate can verify supporting experience or qualification.",
+    "Keep 'Project coordination' unclaimed unless the candidate can verify supporting experience or qualification.",
+    "Keep 'Consumer products experience' unclaimed unless the candidate can verify supporting experience or qualification.",
+    "Keep 'Direct-to-consumer experience' unclaimed unless the candidate can verify supporting experience or qualification.",
+    "Consider presenting the verified resume evidence for 'Market research' in the CV where it fits naturally."
+  ],
+  "priority_actions": [
+    "Review missing required skills. Add them only where supported by genuine experience or qualifications.",
+    "Review preferred skills and include relevant evidence where accurate.",
+    "Review the highest-priority missing keywords and revise the CV without inventing experience."
+  ],
+  "run_id": "20261012T172927Z_43474f78"
+}

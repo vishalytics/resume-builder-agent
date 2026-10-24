@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "question": "How have you built operating dashboards and tracked business KPIs for leadership in past roles?",
+      "category": "role_specific",
+      "answer_points": [
+        "Nutrabay Retail Pvt. Ltd. | Associate – Founder’s Office: Built Power BI dashboards for Offline Sales, enabling leadership to track sales performance, distributor productivity, regional trends and business KPIs through real-time reporting.. Enabled leadership to track sales performance, distributor productivity, regional trends and business KPIs through real-time reporting",
+        "Nutrabay Retail Pvt. Ltd. | Associate – Founder’s Office: Built procurement analytics dashboards tracking supplier performance, RM pricing trends, purchase efficiency and inventory insights; supported NPD through market research, competitor benchmarking and pricing analysis.. Supported NPD through market research, competitor benchmarking and pricing analysis",
+        "Dakshana India Educational Trust Fund | Program Manager – Operations & Strategy: Directed test operations, improving dashboard usage and enhancing data-driven decision-making.. Enhanced data-driven decision-making",
+        "Use a situation, action, result structure and keep all source figures unchanged."
+      ],
+      "follow_up_questions": [
+        "What specific metrics were most critical for the leadership team to monitor?",
+        "How did you ensure the data feeding these dashboards remained accurate and updated in real-time?"
+      ],
+      "evidence_indices": [
+        6,
+        8,
+        15
+      ]
+    },
+    {
+      "question": "Can you describe a cross-functional project where you coordinated efforts across operations, sales, finance, and supply chain teams?",
+      "category": "behavioral",
+      "answer_points": [
+        "Nutrabay Retail Pvt. Ltd. | Associate – Founder’s Office: Led end-to-end implementation of Crest AI for Procurement and an offline-sales automation platform; owned BRDs, UAT, vendor coordination and cross-functional rollout.. Owned BRDs, UAT, vendor coordination and cross-functional rollout",
+        "Nutrabay Retail Pvt. Ltd. | Associate – Founder’s Office: Partnered with Procurement, Sales, Finance, HR, Product, Supply Chain, Technology and Leadership to identify automation opportunities, standardize processes and driven AI-enabled operational improvements.. Standardized processes. Driven AI-enabled operational improvements",
+        "Use a situation, action, result structure and keep all source figures unchanged."
+      ],
+      "follow_up_questions": [
+        "What was your approach to aligning conflicting priorities among different departments?",
+        "How did you manage user acceptance testing (UAT) and ensure a smooth rollout?"
+      ],
+      "evidence_indices": [
+        3,
+        12
+      ]
+    },
+    {
+      "question": "How do you identify manual processes and implement workflow automation to improve operational efficiency?",
+      "category": "role_specific",
+      "answer_points": [
+        "Nutrabay Retail Pvt. Ltd. | Associate – Founder’s Office: Built a Google Google Apps Script | Gemini APIs vendor-slot booking platform for manufacturers and raw-material suppliers, reducing manual coordination by 90% and minimizing warehouse waiting time and detention costs.. Reduced manual coordination by 90%. Minimized warehouse waiting time and detention costs",
+        "Nutrabay Retail Pvt. Ltd. | Associate – Founder’s Office: Automated HR workflows by integrating Keka with Slack, streamlining employee notifications, approval workflows and operational communication across departments.. Streamlined employee notifications, approval workflows and operational communication across departments",
+        "Nutrabay Retail Pvt. Ltd. | Associate – Founder’s Office: Built an AI + Google Apps Script | Gemini APIs job-requisition workflow that generates JDs from requester inputs, routes them to TA for approval, and automatically sends approved JDs to the role’s reporting manager.. Generated JDs from requester inputs. Routed to TA for approval. Automatically sent approved JDs to the role’s reporting manager",
+        "Use a situation, action, result structure and keep all source figures unchanged."
+      ],
+      "follow_up_questions": [
+        "What tools or technologies do you typically leverage for workflow automation?",
+        "How do you measure the success or ROI of an automated workflow?"
+      ],
+      "evidence_indices": [
+        1,
+        4,
+        9
+      ]
+    },
+    {
+      "question": "Describe an instance where you conducted market and competitor research to inform pricing or go-to-market strategies.",
+      "category": "behavioral",
+      "answer_points": [
+        "Nutrabay Retail Pvt. Ltd. | Associate – Founder’s Office: Built procurement analytics dashboards tracking supplier performance, RM pricing trends, purchase efficiency and inventory insights; supported NPD through market research, competitor benchmarking and pricing analysis.. Supported NPD through market research, competitor benchmarking and pricing analysis",
+        "1-Cliq | Business Strategy Intern: Conducted TAM and competitor analysis, identifying market opportunities for e-commerce expansion.. Identified market opportunities",
+        "Use a situation, action, result structure and keep all source figures unchanged."
+      ],
+      "follow_up_questions": [
+        "What frameworks or methodologies did you use for competitor benchmarking?",
+        "How were your findings translated into actionable business decisions?"
+      ],
+      "evidence_indices": [
+        8,
+        22
+      ]
+    },
+    {
+      "question": "How do you prepare concise progress updates and communicate risks and decisions to senior stakeholders?",
+      "category": "role_specific",
+      "answer_points": [
+        "Career summary: Strategy and Business Operations professional with 5+ years of experience across D2C, education and technology ventures, including 1+ year in a Founder’s Office role at Nutrabay. Experienced in translating leadership priorities into cross-functional programs spanning operations, procurement, sales, NPD, analytics, AI automation and process transformation. Strong track record of building data-led systems, automating workflows and driving execution with founders and senior stakeholders.",
+        "Nutrabay Retail Pvt. Ltd. | Associate – Founder’s Office: Redesigned the OKR framework to cascade company objectives into department and employee KPIs, enabling transparent performance tracking and supporting variable-pay calculations.. Enabled transparent performance tracking. Supported variable-pay calculations",
+        "Use a situation, action, result structure and keep all source figures unchanged."
+      ],
+      "follow_up_questions": [
+        "How do you tailor your communication when presenting to technical teams versus executive leadership?",
+        "Can you share an example of a major risk you communicated and how leadership mitigated it based on your update?"
+      ],
+      "evidence_indices": [
+        0,
+        5
+      ]
+    },
+    {
+      "question": "Suppose you are tasked with launching a new direct-to-consumer product line where current supply chain costs are volatile and historical sales data is limited. Outline your analytical approach to determine initial pricing, key performance indicators, and go-to-market milestones.",
+      "category": "analytical_case",
+      "answer_points": [
+        "Clarify the objective, available data, constraints, and decision criteria.",
+        "Explain a proposed analytical approach as a case response, not as prior work experience."
+      ],
+      "follow_up_questions": [
+        "What factors would you consider when evaluating supplier pricing structures?",
+        "How would you design an operating dashboard to track early adopter metrics during the first 30 days?"
+      ],
+      "evidence_indices": []
+    }
+  ],
+  "experience_gaps": [
+    {
+      "requirement": "Identify manual processes and recommend workflow automation and process improvements",
+      "reason": "Model-suggested evidence did not pass deterministic resume/JD verification."
+    },
+    {
+      "requirement": "Conduct market and competitor research to support pricing and go-to-market decisions",
+      "reason": "Model-suggested evidence did not pass deterministic resume/JD verification."
+    },
+    {
+      "requirement": "Tools: Excel, Power BI, SQL",
+      "reason": "Model-suggested evidence did not pass deterministic resume/JD verification."
+    },
+    {
+      "requirement": "Consumer products and Direct-to-consumer experience",
+      "reason": "Model-suggested evidence did not pass deterministic resume/JD verification."
+    }
+  ]
+}

@@ -1,0 +1,347 @@
+{
+  "candidate": {
+    "name": "VISHAL KUMAR",
+    "location": "Delhi NCR",
+    "email": "kumarvishal9341@gmail.com",
+    "phone": "+91 9590311151",
+    "linkedin": "linkedin.com/in/vishalk23",
+    "LinkedIn": "linkedin.com/in/vishalk23"
+  },
+  "summary": "Strategy and Business Operations professional with 5+ years of experience across D2C, education and technology ventures, including 1+ year in a Founder’s Office role at Nutrabay. Experienced in translating leadership priorities into cross-functional programs spanning operations, procurement, sales, NPD, analytics, AI automation and process transformation. Strong track record of building data-led systems, automating workflows and driving execution with founders and senior stakeholders.",
+  "education": [
+    {
+      "degree": "MBA",
+      "institution": "Indian Institute of Technology (IIT), Kanpur",
+      "cgpa": "8.00",
+      "duration": "2023–2025"
+    },
+    {
+      "degree": "B.Tech.",
+      "institution": "National Institute of Technology (NIT), Karnataka",
+      "cgpa": "6.25",
+      "duration": "2014–2018"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Nutrabay Retail Pvt. Ltd.",
+      "role": "Associate – Founder’s Office",
+      "duration": "Jul’25 – Present",
+      "responsibilities": [
+        "Operations Strategy",
+        "AI Automation",
+        "Business Analytics",
+        "Procurement",
+        "Program Management"
+      ],
+      "achievements": [
+        {
+          "achievement": "Built a Google Google Apps Script | Gemini APIs vendor-slot booking platform for manufacturers and raw-material suppliers",
+          "metrics": [
+            "Reduced manual coordination by 90%",
+            "Minimized warehouse waiting time and detention costs"
+          ],
+          "evidence": "Built a Google Google Apps Script | Gemini APIs vendor-slot booking platform for manufacturers and raw-material suppliers, reducing manual coordination by 90% and minimizing warehouse waiting time and detention costs."
+        },
+        {
+          "achievement": "Converted 20+ SOPs into AI-generated multilingual training videos using Google AI tools",
+          "metrics": [
+            "Improved onboarding efficiency",
+            "Enhanced process compliance across operations teams"
+          ],
+          "evidence": "Converted 20+ SOPs into AI-generated multilingual training videos using Google AI tools, improving onboarding efficiency and process compliance across operations teams."
+        },
+        {
+          "achievement": "Led end-to-end implementation of Crest AI for Procurement and an offline-sales automation platform",
+          "metrics": [
+            "Owned BRDs, UAT, vendor coordination and cross-functional rollout"
+          ],
+          "evidence": "Led end-to-end implementation of Crest AI for Procurement and an offline-sales automation platform; owned BRDs, UAT, vendor coordination and cross-functional rollout."
+        },
+        {
+          "achievement": "Automated HR workflows by integrating Keka with Slack",
+          "metrics": [
+            "Streamlined employee notifications, approval workflows and operational communication across departments"
+          ],
+          "evidence": "Automated HR workflows by integrating Keka with Slack, streamlining employee notifications, approval workflows and operational communication across departments."
+        },
+        {
+          "achievement": "Redesigned the OKR framework to cascade company objectives into department and employee KPIs",
+          "metrics": [
+            "Enabled transparent performance tracking",
+            "Supported variable-pay calculations"
+          ],
+          "evidence": "Redesigned the OKR framework to cascade company objectives into department and employee KPIs, enabling transparent performance tracking and supporting variable-pay calculations."
+        },
+        {
+          "achievement": "Built Power BI dashboards for Offline Sales",
+          "metrics": [
+            "Enabled leadership to track sales performance, distributor productivity, regional trends and business KPIs through real-time reporting"
+          ],
+          "evidence": "Built Power BI dashboards for Offline Sales, enabling leadership to track sales performance, distributor productivity, regional trends and business KPIs through real-time reporting."
+        },
+        {
+          "achievement": "Developed a centralized Product Master Cost Sheet",
+          "metrics": [
+            "Strengthened procurement decisions and cost visibility"
+          ],
+          "evidence": "Developed a centralized Product Master Cost Sheet covering raw materials, packaging, BOM, manufacturing cost and pricing intelligence, strengthening procurement decisions and cost visibility."
+        },
+        {
+          "achievement": "Built procurement analytics dashboards tracking supplier performance, RM pricing trends, purchase efficiency and inventory insights",
+          "metrics": [
+            "Supported NPD through market research, competitor benchmarking and pricing analysis"
+          ],
+          "evidence": "Built procurement analytics dashboards tracking supplier performance, RM pricing trends, purchase efficiency and inventory insights; supported NPD through market research, competitor benchmarking and pricing analysis."
+        },
+        {
+          "achievement": "Built an AI + Google Apps Script | Gemini APIs job-requisition workflow",
+          "metrics": [
+            "Generated JDs from requester inputs",
+            "Routed to TA for approval",
+            "Automatically sent approved JDs to the role’s reporting manager"
+          ],
+          "evidence": "Built an AI + Google Apps Script | Gemini APIs job-requisition workflow that generates JDs from requester inputs, routes them to TA for approval, and automatically sends approved JDs to the role’s reporting manager."
+        },
+        {
+          "achievement": "Evaluated Google Workspace vs Microsoft 365",
+          "metrics": [
+            "Assessed Google Endpoint Management for centralized Windows/macOS administration",
+            "Avoided a complete Microsoft migration"
+          ],
+          "evidence": "Evaluated Google Workspace vs Microsoft 365 using SWOT, TCO, security and device-management analysis; assessed Google Endpoint Management for centralized Windows/macOS administration and avoided a complete Microsoft migration."
+        },
+        {
+          "achievement": "Built AI-powered scheduled reporting workflows with role-based access and an online/offline price tracker",
+          "metrics": [
+            "Improved price consistency",
+            "Supported channel profitability",
+            "Strengthened offline sales execution"
+          ],
+          "evidence": "Built AI-powered scheduled reporting workflows with role-based access and an online/offline price tracker to improve price consistency, support channel profitability and strengthen offline sales execution."
+        },
+        {
+          "achievement": "Partnered with Procurement, Sales, Finance, HR, Product, Supply Chain, Technology and Leadership to identify automation opportunities",
+          "metrics": [
+            "Standardized processes",
+            "Driven AI-enabled operational improvements"
+          ],
+          "evidence": "Partnered with Procurement, Sales, Finance, HR, Product, Supply Chain, Technology and Leadership to identify automation opportunities, standardize processes and driven AI-enabled operational improvements."
+        },
+        {
+          "achievement": "Built a task management platform using Claude, GitHub, Netlify",
+          "metrics": [
+            "Enabled role-based access"
+          ],
+          "evidence": "Built a task management platform using Claude, GitHub, Netlify."
+        }
+      ],
+      "skills": [
+        "Strategy & Operations",
+        "Founder’s Office",
+        "AI Automation",
+        "Business Analytics",
+        "Procurement",
+        "Program Management",
+        "Power BI",
+        "Excel",
+        "SQL",
+        "Google Workspace",
+        "Keka",
+        "Crest AI",
+        "Task Management"
+      ]
+    },
+    {
+      "company": "Dakshana India Educational Trust Fund",
+      "role": "Program Manager – Operations & Strategy",
+      "duration": "Oct’19 – May’23",
+      "responsibilities": [
+        "Collaborating with leadership",
+        "Directing test operations",
+        "Managing educational programs"
+      ],
+      "achievements": [
+        {
+          "achievement": "Improved dashboard usage",
+          "metrics": [
+            "Enhanced data-driven decision-making"
+          ],
+          "evidence": "Directed test operations, improving dashboard usage and enhancing data-driven decision-making."
+        },
+        {
+          "achievement": "Reduced costs and improved efficiency",
+          "metrics": [
+            "Reduced costs by 20%",
+            "Improved operational efficiency"
+          ],
+          "evidence": "Directed test operations, reducing costs by 20% and improving operational efficiency."
+        },
+        {
+          "achievement": "Enhanced process compliance",
+          "metrics": [
+            "Standardized educational processes"
+          ],
+          "evidence": "Directed test operations, enhancing process compliance and standardizing educational processes."
+        }
+      ],
+      "skills": [
+        "Program Management",
+        "Educational Operations",
+        "Data Analysis",
+        "Process Standardization"
+      ]
+    },
+    {
+      "company": "MokkoMotto Electronics Pvt. Ltd.",
+      "role": "Founder’s Office Intern",
+      "duration": "Sep’24 – Apr’25",
+      "responsibilities": [
+        "GTM",
+        "B2B Sales",
+        "Vendor Onboarding"
+      ],
+      "achievements": [
+        {
+          "achievement": "Secured ₹18L+ in orders",
+          "metrics": [
+            "Generated revenue through B2B sales"
+          ],
+          "evidence": "Secured ₹18L+ in orders through B2B sales and vendor onboarding."
+        },
+        {
+          "achievement": "Improved SEO from 54 to 95",
+          "metrics": [
+            "Boosted website visibility"
+          ],
+          "evidence": "Improved SEO from 54 to 95, boosting website visibility and organic traffic."
+        }
+      ],
+      "skills": [
+        "GTM Strategy",
+        "B2B Sales",
+        "SEO Optimization",
+        "Vendor Management"
+      ]
+    },
+    {
+      "company": "1-Cliq",
+      "role": "Business Strategy Intern",
+      "duration": "Apr’24 – May’24",
+      "responsibilities": [
+        "E-commerce Pilot",
+        "GTM Strategy",
+        "Vendor Onboarding"
+      ],
+      "achievements": [
+        {
+          "achievement": "Conducted TAM and competitor analysis",
+          "metrics": [
+            "Identified market opportunities"
+          ],
+          "evidence": "Conducted TAM and competitor analysis, identifying market opportunities for e-commerce expansion."
+        },
+        {
+          "achievement": "Onboarded 20+ vendors",
+          "metrics": [
+            "Expanded supplier network"
+          ],
+          "evidence": "Onboarded 20+ vendors, expanding the supplier network and enhancing supply chain capabilities."
+        }
+      ],
+      "skills": [
+        "Market Analysis",
+        "Vendor Management",
+        "GTM Strategy",
+        "E-commerce"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Task Management Platform",
+      "description": "Built a task management platform using Claude, GitHub, and Netlify to streamline workflows and enhance team collaboration.",
+      "skills": [
+        "Task Management",
+        "Cloud Computing",
+        "GitHub",
+        "Netlify"
+      ],
+      "tools": [
+        "Claude",
+        "GitHub",
+        "Netlify"
+      ],
+      "metrics": [
+        "Enabled role-based access"
+      ],
+      "evidence": "Built a task management platform using Claude, GitHub, Netlify."
+    },
+    {
+      "name": "AI-Powered Scheduled Reporting Workflows",
+      "description": "Developed AI-powered scheduled reporting workflows with role-based access and an online/offline price tracker.",
+      "skills": [
+        "AI Automation",
+        "Reporting",
+        "Data Analysis"
+      ],
+      "tools": [
+        "AI Tools",
+        "Power BI"
+      ],
+      "metrics": [
+        "Improved price consistency",
+        "Supported channel profitability",
+        "Strengthened offline sales execution"
+      ],
+      "evidence": "Built AI-powered scheduled reporting workflows with role-based access and an online/offline price tracker to improve price consistency, support channel profitability and strengthen offline sales execution."
+    }
+  ],
+  "achievements": [
+    {
+      "name": "PPO (President's Prize for Outstanding Achievement)",
+      "description": "Recognized for exceptional contributions to organizational growth and innovation."
+    },
+    {
+      "name": "Best Employee Award",
+      "description": "Awarded for outstanding performance and leadership in educational program management."
+    },
+    {
+      "name": "Full Scholarship",
+      "description": "Received a full scholarship for academic excellence during B.Tech. at NIT Karnataka."
+    },
+    {
+      "name": "Badminton Championship",
+      "description": "Won the Badminton Championship at the state level, showcasing sportsmanship and dedication."
+    }
+  ],
+  "certifications": [
+    {
+      "name": "MBA Degree",
+      "institution": "Indian Institute of Technology (IIT), Kanpur",
+      "duration": "2023–2025"
+    },
+    {
+      "name": "B.Tech. Degree",
+      "institution": "National Institute of Technology (NIT), Karnataka",
+      "duration": "2014–2018"
+    }
+  ],
+  "leadership": [
+    {
+      "role": "Academic Manager",
+      "institution": "Dakshana India Educational Trust Fund",
+      "duration": "Oct’19 – May’23"
+    },
+    {
+      "role": "Vice President",
+      "institution": "Dakshana India Educational Trust Fund",
+      "duration": "Oct’19 – May’23"
+    },
+    {
+      "role": "Choreography Lead",
+      "institution": "University Sports Club",
+      "duration": "2018–2020"
+    }
+  ]
+}

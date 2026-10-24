@@ -1,0 +1,98 @@
+{
+  "overall_match": 95,
+  "strong_matches": [
+    {
+      "requirement": "Build operating dashboards and track business KPIs for leadership",
+      "category": "Operational Execution",
+      "evidence": "Built Power BI dashboards for Offline Sales, enabling leadership to track sales performance, distributor productivity, regional trends and business KPIs through real-time reporting.",
+      "company": "Nutrabay Retail Pvt. Ltd.",
+      "role": "Associate – Founder’s Office",
+      "project": "Power BI Sales Dashboard",
+      "metrics": [
+        "Real-time reporting of sales performance and distributor productivity"
+      ]
+    },
+    {
+      "requirement": "Coordinate cross-functional projects with operations, sales, finance, supply chain, and product teams",
+      "category": "Program Management",
+      "evidence": "Partnered with Procurement, Sales, Finance, HR, Product, Supply Chain, Technology and Leadership to identify automation opportunities, standardize processes and driven AI-enabled operational improvements.",
+      "company": "Nutrabay Retail Pvt. Ltd.",
+      "role": "Associate – Founder’s Office",
+      "project": "Cross-functional Automation Initiatives",
+      "metrics": []
+    }
+  ],
+  "partial_matches": [],
+  "no_evidence": [
+    {
+      "requirement": "Identify manual processes and recommend workflow automation and process improvements",
+      "reason": "Model-suggested evidence did not pass deterministic resume/JD verification."
+    },
+    {
+      "requirement": "Conduct market and competitor research to support pricing and go-to-market decisions",
+      "reason": "Model-suggested evidence did not pass deterministic resume/JD verification."
+    },
+    {
+      "requirement": "Tools: Excel, Power BI, SQL",
+      "reason": "Model-suggested evidence did not pass deterministic resume/JD verification."
+    },
+    {
+      "requirement": "Consumer products and Direct-to-consumer experience",
+      "reason": "Model-suggested evidence did not pass deterministic resume/JD verification."
+    }
+  ],
+  "keyword_matches": [
+    "Business operations",
+    "Strategy",
+    "Program management",
+    "KPIs",
+    "Cross-functional",
+    "Process improvements",
+    "Workflow automation",
+    "Market research",
+    "Stakeholder communication",
+    "Consumer products",
+    "Direct-to-consumer",
+    "Go-to-market",
+    "Pricing",
+    "Power BI",
+    "Excel",
+    "SQL"
+  ],
+  "missing_keywords": [],
+  "recommended_resume_keywords": [
+    "Operational Excellence",
+    "D2C Strategy",
+    "Cross-functional Leadership",
+    "Data-driven Decision Making"
+  ],
+  "recommended_experiences": [
+    "Highlight the Nutrabay 'Founder's Office' experience first as it directly aligns with the Associate level responsibilities requested in the JD.",
+    "Emphasize the AI-automation projects (Gemini/Apps Script) to showcase proactive 'Process Improvement' capabilities beyond standard manual tasks."
+  ],
+  "recommended_projects": [
+    "Include the 'AI-Powered Scheduled Reporting Workflows' project specifically as it proves the ability to automate reporting and improve operational efficiency."
+  ],
+  "skill_gaps": [],
+  "priority_changes": [
+    "Ensure the 'Business Strategy Intern' (1-Cliq) and 'Founder's Office Intern' (MokkoMotto) roles are grouped concisely to prioritize the 'Associate' level full-time experience at Nutrabay."
+  ],
+  "unverified_model_matches": [
+    {
+      "requirement": "Identify manual processes and recommend workflow automation and process improvements",
+      "reason": "Model-suggested evidence did not pass deterministic resume/JD verification."
+    },
+    {
+      "requirement": "Conduct market and competitor research to support pricing and go-to-market decisions",
+      "reason": "Model-suggested evidence did not pass deterministic resume/JD verification."
+    },
+    {
+      "requirement": "Tools: Excel, Power BI, SQL",
+      "reason": "Model-suggested evidence did not pass deterministic resume/JD verification."
+    },
+    {
+      "requirement": "Consumer products and Direct-to-consumer experience",
+      "reason": "Model-suggested evidence did not pass deterministic resume/JD verification."
+    }
+  ]
+}

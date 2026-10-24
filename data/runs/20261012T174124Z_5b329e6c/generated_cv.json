@@ -1,0 +1,97 @@
+{
+  "name": "VISHAL KUMAR",
+  "email": "kumarvishal9341@gmail.com",
+  "phone": "+91 9590311151",
+  "linkedin": "linkedin.com/in/vishalk23",
+  "location": "Delhi NCR",
+  "targeted_headline": "Associate – Strategy & Business Operations",
+  "targeted_summary": "Strategy and Business Operations professional with 5+ years of experience across D2C and technology ventures. Expert in translating leadership priorities into cross-functional programs spanning operations, procurement, analytics, and AI-driven process transformation. Proven track record of building data-led systems to enhance operational efficiency.",
+  "core_expertise": [
+    "Strategy & Business Operations",
+    "Procurement & Supply Chain Analytics",
+    "Cross-functional Program Management",
+    "AI-enabled Workflow Automation"
+  ],
+  "tools_and_technologies": [
+    "Analytics & Visualization: Power BI, Excel, SQL",
+    "Automation & AI: Google Apps Script, Gemini APIs, Claude, GitHub, Netlify, Keka",
+    "Business Tools: Google Workspace, Crest AI"
+  ],
+  "experience": [
+    {
+      "company": "Nutrabay Retail Pvt. Ltd.",
+      "role": "Associate – Founder’s Office",
+      "dates": "Jul’25 – Present",
+      "focus": "Strategy, Procurement Analytics, & AI Process Automation",
+      "bullets": [
+        "Developed a centralized Product Master Cost Sheet covering raw materials, BOM, and pricing intelligence, strengthening procurement decisions and unit economics visibility.",
+        "Built procurement analytics dashboards tracking supplier performance, RM pricing trends, and purchase efficiency to support NPD market research and competitor benchmarking.",
+        "Engineered a vendor-slot booking platform using Google Apps Script and Gemini APIs, reducing manual coordination by 90% and minimizing warehouse detention costs.",
+        "Led end-to-end implementation of Crest AI for Procurement and an offline-sales automation platform, managing BRDs, UAT, and cross-functional rollout.",
+        "Built Power BI dashboards for Offline Sales to provide leadership with real-time tracking of distributor productivity, regional trends, and business KPIs.",
+        "Redesigned the OKR framework to cascade company objectives into department and employee KPIs, enabling transparent performance tracking.",
+        "Converted 20+ SOPs into AI-generated multilingual training videos using Google AI tools to improve onboarding efficiency and process compliance.",
+        "Partnered with Finance, Sales, and Supply Chain leadership to identify automation opportunities and standardize workflows across departments."
+      ]
+    },
+    {
+      "company": "Dakshana India Educational Trust Fund",
+      "role": "Program Manager – Operations & Strategy",
+      "dates": "Oct 2018 - May 2023",
+      "focus": "Operational Efficiency & Data-Driven Strategy",
+      "bullets": [
+        "Directed test operations, improving dashboard usage and enhancing data-driven decision-making across the organization.",
+        "Reduced operational costs by 20% while concurrently improving overall process efficiency.",
+        "Standardized educational processes, ensuring consistent compliance across program operations.",
+        "Collaborated with leadership to drive strategic initiatives and program management."
+      ]
+    },
+    {
+      "company": "MokkoMotto Electronics Pvt. Ltd.",
+      "role": "Founder’s Office Intern",
+      "dates": "Sep’24 – Apr’25",
+      "focus": "B2B Sales & GTM Strategy",
+      "bullets": [
+        "Secured ₹18L+ in orders through targeted B2B sales efforts and vendor onboarding initiatives.",
+        "Optimized digital presence, improving SEO scores from 54 to 95 to boost organic traffic."
+      ]
+    },
+    {
+      "company": "1-Cliq",
+      "role": "Business Strategy Intern",
+      "dates": "Apr’24 – May’24",
+      "focus": "Market Analysis & Supply Chain Expansion",
+      "bullets": [
+        "Conducted TAM and competitor analysis to identify and validate market opportunities for e-commerce expansion.",
+        "Onboarded 20+ vendors, effectively expanding the supplier network and enhancing supply chain capabilities."
+      ]
+    }
+  ],
+  "achievements": [
+    "PPO offered by MokkoMotto for ownership across GTM strategy, B2B sales funnel and digital marketing.",
+    "Recognized as Best Employee at Dakshana for contributions to exam-system digitization and operations across centres.",
+    "Received a full Dakshana Foundation scholarship for JEE preparation.",
+    "Winner, IIT Kanpur Hall 11 Badminton Singles."
+  ],
+  "leadership": [
+    "Academic Manager – AnC, IIT Kanpur; Vice President – Artist Forum, NIT Surathkal; Choreography Lead – Dance Crew, NIT Surathkal."
+  ],
+  "certifications": [
+    "Lean Six Sigma Green Belt",
+    "Google Data Analytics Professional Certificate",
+    "Digital Marketing",
+    "Agile Fundamentals",
+    "PMP Exam Preparation Course",
+    "Microsoft Excel: Beginner to Expert"
+  ],
+  "education": {
+    "mba_degree": "MBA",
+    "mba_institution": "Indian Institute of Technology (IIT), Kanpur",
+    "mba_duration": "2023–2025",
+    "mba_score": "8.00",
+    "btech_degree": "B.Tech.",
+    "btech_institution": "National Institute of Technology (NIT), Karnataka",
+    "btech_duration": "2014–2018",
+    "btech_score": "6.25"
+  }
+}

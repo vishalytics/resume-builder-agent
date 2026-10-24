@@ -1,0 +1,129 @@
+{
+  "questions": [
+    {
+      "question": "Can you describe your experience implementing procurement and sales automation platforms, specifically regarding your ownership of BRDs, UAT, and vendor coordination?",
+      "category": "role_specific",
+      "answer_points": [
+        "Nutrabay Retail Pvt. Ltd. | Associate – Founder’s Office: Led end-to-end implementation of Crest AI for Procurement and an offline-sales automation platform; owned BRDs, UAT, vendor coordination and cross-functional rollout.. Owned BRDs, UAT, vendor coordination and cross-functional rollout",
+        "Use a situation, action, result structure and keep all source figures unchanged."
+      ],
+      "follow_up_questions": [
+        "How did you manage cross-functional alignment during the rollout?",
+        "What challenges did you face during UAT and how did you resolve them?"
+      ],
+      "evidence_indices": [
+        3
+      ]
+    },
+    {
+      "question": "How have you utilized tools like Google Apps Script and Gemini APIs to build vendor-slot booking platforms or streamline internal workflows?",
+      "category": "role_specific",
+      "answer_points": [
+        "Nutrabay Retail Pvt. Ltd. | Associate – Founder’s Office: Built a Google Google Apps Script | Gemini APIs vendor-slot booking platform for manufacturers and raw-material suppliers, reducing manual coordination by 90% and minimizing warehouse waiting time and detention costs.. Reduced manual coordination by 90%. Minimized warehouse waiting time and detention costs",
+        "Nutrabay Retail Pvt. Ltd. | Associate – Founder’s Office: Built an AI + Google Apps Script | Gemini APIs job-requisition workflow that generates JDs from requester inputs, routes them to TA for approval, and automatically sends approved JDs to the role’s reporting manager.. Generated JDs from requester inputs. Routed to TA for approval. Automatically sent approved JDs to the role’s reporting manager",
+        "Use a situation, action, result structure and keep all source figures unchanged."
+      ],
+      "follow_up_questions": [
+        "What metrics did you track to measure the success of the automation?",
+        "How do you ensure proper documentation and adoption of these automated workflows across departments?"
+      ],
+      "evidence_indices": [
+        1,
+        9
+      ]
+    },
+    {
+      "question": "Describe a time when you redesigned an OKR framework or performance tracking system to cascade company objectives into department and employee KPIs.",
+      "category": "behavioral",
+      "answer_points": [
+        "Nutrabay Retail Pvt. Ltd. | Associate – Founder’s Office: Redesigned the OKR framework to cascade company objectives into department and employee KPIs, enabling transparent performance tracking and supporting variable-pay calculations.. Enabled transparent performance tracking. Supported variable-pay calculations",
+        "Use a situation, action, result structure and keep all source figures unchanged."
+      ],
+      "follow_up_questions": [
+        "How did leadership and employees react to the transparency provided by the new metrics?",
+        "How did this framework tie into variable-pay calculations?"
+      ],
+      "evidence_indices": [
+        5
+      ]
+    },
+    {
+      "question": "How do you approach cross-functional stakeholder management when driving strategic initiatives involving Sales, Procurement, Supply Chain, and Technology?",
+      "category": "behavioral",
+      "answer_points": [
+        "Career summary: Strategy and Business Operations professional with 5+ years of experience across D2C, education and technology ventures, including 1+ year in a Founder’s Office role at Nutrabay. Experienced in translating leadership priorities into cross-functional programs spanning operations, procurement, sales, NPD, analytics, AI automation and process transformation. Strong track record of building data-led systems, automating workflows and driving execution with founders and senior stakeholders.",
+        "Nutrabay Retail Pvt. Ltd. | Associate – Founder’s Office: Partnered with Procurement, Sales, Finance, HR, Product, Supply Chain, Technology and Leadership to identify automation opportunities, standardize processes and driven AI-enabled operational improvements.. Standardized processes. Driven AI-enabled operational improvements",
+        "Use a situation, action, result structure and keep all source figures unchanged."
+      ],
+      "follow_up_questions": [
+        "Can you share an example of a time when priorities conflicted across departments and how you resolved the bottleneck?",
+        "How do you tailor your communication when updating senior stakeholders versus operational teams?"
+      ],
+      "evidence_indices": [
+        0,
+        12
+      ]
+    },
+    {
+      "question": "Tell me about a time you evaluated complex technical or operational alternatives, such as comparing software suites, and how you delivered a data-driven recommendation to leadership.",
+      "category": "behavioral",
+      "answer_points": [
+        "Nutrabay Retail Pvt. Ltd. | Associate – Founder’s Office: Evaluated Google Workspace vs Microsoft 365 using SWOT, TCO, security and device-management analysis; assessed Google Endpoint Management for centralized Windows/macOS administration and avoided a complete Microsoft migration.. Assessed Google Endpoint Management for centralized Windows/macOS administration. Avoided a complete Microsoft migration",
+        "Use a situation, action, result structure and keep all source figures unchanged."
+      ],
+      "follow_up_questions": [
+        "What specific frameworks (e.g., SWOT, TCO) did you use for your analysis?",
+        "How did you account for long-term scalability in your recommendation?"
+      ],
+      "evidence_indices": [
+        10
+      ]
+    },
+    {
+      "question": "How would you design a data-driven framework to evaluate and optimize channel-level profitability and raw material pricing trends for a growing D2C brand?",
+      "category": "analytical_case",
+      "answer_points": [
+        "Clarify the objective, available data, constraints, and decision criteria.",
+        "Explain a proposed analytical approach as a case response, not as prior work experience."
+      ],
+      "follow_up_questions": [
+        "What key metrics and data sources would you prioritize in your analysis?",
+        "How would you address missing or inconsistent SKU-level cost data?",
+        "What steps would you take to ensure leadership can continuously monitor these insights in real time?"
+      ],
+      "evidence_indices": []
+    }
+  ],
+  "experience_gaps": [
+    {
+      "requirement": "Unit economics and deep inventory planning",
+      "category": "Domain",
+      "reason": "Resume mentions procurement cost visibility and BOM cost sheets but lacks explicit evidence of managing inventory planning, shelf-life, or unit-level economic modeling at scale."
+    },
+    {
+      "requirement": "Pricing strategy",
+      "category": "Domain",
+      "reason": "Candidate has worked on pricing intelligence and an online/offline price tracker, but explicit ownership of pricing strategy (margin setting, dynamic pricing modeling) is not documented."
+    },
+    {
+      "requirement": "Build and maintain dashboards using Excel and Power BI",
+      "reason": "Model-suggested evidence did not pass deterministic resume/JD verification."
+    },
+    {
+      "requirement": "Identify repetitive workflows suitable for automation using AI tools, APIs, low-code platforms, or scripting",
+      "reason": "Model-suggested evidence did not pass deterministic resume/JD verification."
+    },
+    {
+      "requirement": "Develop standard operating procedures (SOPs) and establish performance measurement frameworks",
+      "reason": "Model-suggested evidence did not pass deterministic resume/JD verification."
+    },
+    {
+      "requirement": "MBA",
+      "reason": "Model-suggested evidence did not pass deterministic resume/JD verification."
+    },
+    {
+      "requirement": "Market research, competitor benchmarking, and business analysis",
+      "reason": "Model-suggested evidence did not pass deterministic resume/JD verification."
+    }
+  ]
+}

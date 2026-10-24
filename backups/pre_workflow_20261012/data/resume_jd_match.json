@@ -1,0 +1,217 @@
+{
+  "overall_match": 88,
+  "strong_matches": [
+    {
+      "requirement": "Work directly with the founders to identify business priorities and execute strategic initiatives.",
+      "category": "Experience & Role Fit",
+      "evidence": "Currently working as Associate – Founder’s Office at Nutrabay Retail Pvt. Ltd. translating leadership priorities into cross-functional programs spanning operations, procurement, sales, NPD, analytics, AI automation and process transformation.",
+      "company": "Nutrabay Retail Pvt. Ltd.",
+      "role": "Associate – Founder’s Office",
+      "project": "Founder's Office Strategic Initiatives",
+      "metrics": [
+        "1+ year in a Founder’s Office role at Nutrabay",
+        "Redesigned the OKR framework to cascade company objectives into department and employee KPIs"
+      ]
+    },
+    {
+      "requirement": "Build dashboards and management reports using Excel, Power BI, or similar analytics tools.",
+      "category": "Technical & Analytics",
+      "evidence": "Built Power BI dashboards for Offline Sales enabling leadership to track sales performance, distributor productivity, regional trends and business KPIs; built procurement analytics dashboards tracking supplier performance, RM pricing trends, purchase efficiency and inventory insights.",
+      "company": "Nutrabay Retail Pvt. Ltd.",
+      "role": "Associate – Founder’s Office",
+      "project": "Offline Sales & Procurement Dashboards",
+      "metrics": [
+        "Track sales performance, distributor productivity, regional trends and business KPIs through real-time reporting"
+      ]
+    },
+    {
+      "requirement": "Lead cross-functional projects involving marketing, sales, finance, supply chain, and product teams.",
+      "category": "Program Management",
+      "evidence": "Partnered with Procurement, Sales, Finance, HR, Product, Supply Chain, Technology and Leadership to identify automation opportunities, standardize processes and driven AI-enabled operational improvements; led end-to-end implementation of Crest AI for Procurement and an offline-sales automation platform.",
+      "company": "Nutrabay Retail Pvt. Ltd.",
+      "role": "Associate – Founder’s Office",
+      "project": "Cross-functional Automation & Platform Rollout",
+      "metrics": [
+        "Owned BRDs, UAT, vendor coordination and cross-functional rollout"
+      ]
+    },
+    {
+      "requirement": "Identify process gaps and implement automation solutions to reduce manual work and improve efficiency.",
+      "category": "Process & Automation",
+      "evidence": "Built a Google Apps Script | Gemini APIs vendor-slot booking platform for manufacturers and raw-material suppliers, reducing manual coordination by 90% and minimizing warehouse waiting time and detention costs.",
+      "company": "Nutrabay Retail Pvt. Ltd.",
+      "role": "Associate – Founder’s Office",
+      "project": "Vendor-Slot Booking Platform",
+      "metrics": [
+        "Reduced manual coordination by 90%",
+        "Minimized warehouse waiting time and detention costs"
+      ]
+    },
+    {
+      "requirement": "Support new product launches, go-to-market (GTM) strategy, and business expansion initiatives.",
+      "category": "Strategy & GTM",
+      "evidence": "Supported NPD through market research, competitor benchmarking and pricing analysis at Nutrabay; worked on GTM strategy, B2B sales and vendor onboarding at MokkoMotto Electronics; conducted TAM and competitor analysis for e-commerce pilot at 1-Cliq.",
+      "company": "Nutrabay Retail Pvt. Ltd. / MokkoMotto Electronics Pvt. Ltd.",
+      "role": "Associate – Founder’s Office / Founder’s Office Intern",
+      "project": "NPD & GTM Execution",
+      "metrics": [
+        "Secured ₹18L+ in orders through B2B sales and vendor onboarding",
+        "Onboarded 20+ vendors"
+      ]
+    },
+    {
+      "requirement": "Conduct market research, competitor benchmarking, and pricing analysis to support business planning.",
+      "category": "Research & Strategy",
+      "evidence": "Supported NPD through market research, competitor benchmarking and pricing analysis; developed centralized Product Master Cost Sheet and built an online/offline price tracker.",
+      "company": "Nutrabay Retail Pvt. Ltd.",
+      "role": "Associate – Founder’s Office",
+      "project": "Product Master Cost Sheet & Price Tracker",
+      "metrics": [
+        "Covering raw materials, packaging, BOM, manufacturing cost and pricing intelligence",
+        "Improved price consistency and supported channel profitability"
+      ]
+    },
+    {
+      "requirement": "Build standard operating procedures (SOPs) and improve existing business processes.",
+      "category": "Operations",
+      "evidence": "Converted 20+ SOPs into AI-generated multilingual training videos using Google AI tools, improving onboarding efficiency and process compliance across operations teams; standardized educational processes at Dakshana.",
+      "company": "Nutrabay Retail Pvt. Ltd.",
+      "role": "Associate – Founder’s Office",
+      "project": "AI SOP Video Conversion",
+      "metrics": [
+        "Converted 20+ SOPs",
+        "Improved onboarding efficiency and enhanced process compliance"
+      ]
+    },
+    {
+      "requirement": "Track key performance indicators (KPIs), monitor progress against targets, and communicate actionable insights to leadership.",
+      "category": "Analytics & Operations",
+      "evidence": "Redesigned the OKR framework to cascade company objectives into department and employee KPIs, enabling transparent performance tracking and supporting variable-pay calculations.",
+      "company": "Nutrabay Retail Pvt. Ltd.",
+      "role": "Associate – Founder’s Office",
+      "project": "OKR Framework Redesign",
+      "metrics": [
+        "Enabled transparent performance tracking",
+        "Supported variable-pay calculations"
+      ]
+    },
+    {
+      "requirement": "3–6 years of experience in strategy, business operations, consulting, program management, or a Founder’s Office role.",
+      "category": "Experience Requirements",
+      "evidence": "Total 5+ years of verified professional experience across operations, strategy, and Founder’s Office roles (Nutrabay: Jul 2025–Present, Dakshana: Oct 2018–May 2023, plus 2024–2025 internships).",
+      "company": "Dakshana India Educational Trust Fund / Nutrabay Retail Pvt. Ltd.",
+      "role": "Program Manager – Operations & Strategy / Associate – Founder’s Office",
+      "project": "Full Career History",
+      "metrics": [
+        "5+ years of experience across D2C, education and technology ventures",
+        "1+ year in a Founder’s Office role"
+      ]
+    },
+    {
+      "requirement": "Bachelor's degree in Engineering, Business, Economics, or a related field; MBA preferred.",
+      "category": "Education",
+      "evidence": "B.Tech. from National Institute of Technology (NIT), Karnataka (2014–2018) and MBA from Indian Institute of Technology (IIT), Kanpur (2023–2025).",
+      "company": "IIT Kanpur / NIT Karnataka",
+      "role": "Student",
+      "project": "Academic Degrees",
+      "metrics": [
+        "MBA CGPA: 8.00",
+        "B.Tech CGPA: 6.25"
+      ]
+    }
+  ],
+  "partial_matches": [
+    {
+      "requirement": "Develop business cases, financial models, and data-driven recommendations for strategic decisions.",
+      "category": "Finance & Analytics",
+      "evidence": "Developed a centralized Product Master Cost Sheet covering raw materials, packaging, BOM, manufacturing cost and pricing intelligence, and evaluated Google Workspace vs Microsoft 365 using TCO and SWOT analysis.",
+      "gap": "Direct explicit evidence of building multi-statement financial models or formal DCF/LBO models is not stated, though unit economics, cost modeling (BOM, TCO), and pricing analysis are strongly evidenced.",
+      "company": "Nutrabay Retail Pvt. Ltd.",
+      "role": "Associate – Founder’s Office",
+      "metrics": [
+        "Covering raw materials, packaging, BOM, manufacturing cost and pricing intelligence",
+        "Avoided a complete Microsoft migration"
+      ]
+    },
+    {
+      "requirement": "Analyse customer behaviour and sales trends to identify growth opportunities.",
+      "category": "Analytics",
+      "evidence": "Built Power BI dashboards for Offline Sales to track sales performance, distributor productivity, regional trends and business KPIs; conducted TAM analysis for e-commerce pilot.",
+      "gap": "Evidence covers sales trends, regional trends, distributor productivity, and TAM analysis, but explicit tracking of 'customer behaviour' metrics (e.g., retention curves, cohort analysis, churn) is not specifically mentioned.",
+      "company": "Nutrabay Retail Pvt. Ltd. / 1-Cliq",
+      "role": "Associate – Founder’s Office / Business Strategy Intern",
+      "metrics": [
+        "Track sales performance, distributor productivity, regional trends and business KPIs"
+      ]
+    },
+    {
+      "requirement": "Prepare presentations and executive updates for founders and senior management.",
+      "category": "Communication",
+      "evidence": "Delivered real-time reporting, SWOT and TCO evaluations to leadership, and automated scheduled reporting workflows with role-based access for founders and senior stakeholders.",
+      "gap": "Direct mention of creating slide decks/board presentations ('executive presentations') is implicit through leadership updates and dashboards rather than explicitly named as PPT deliverables.",
+      "company": "Nutrabay Retail Pvt. Ltd.",
+      "role": "Associate – Founder’s Office",
+      "metrics": [
+        "Evaluated Google Workspace vs Microsoft 365 using SWOT, TCO, security and device-management analysis"
+      ]
+    }
+  ],
+  "no_evidence": [
+    {
+      "requirement": "Prior experience specifically in consulting firm environments",
+      "category": "Domain / Background",
+      "reason": "The candidate has startup, D2C, education, and technology venture experience, but no verified employment at a management consulting firm."
+    }
+  ],
+  "keyword_matches": [
+    "Founder’s Office",
+    "Strategy",
+    "Business Operations",
+    "Program Management",
+    "Cross-functional Leadership",
+    "Excel",
+    "Power BI",
+    "SQL",
+    "GTM Strategy",
+    "Market Research",
+    "Benchmarking",
+    "SOPs",
+    "KPIs",
+    "Dashboards",
+    "Consumer Brands",
+    "Operational metrics",
+    "Sales trends",
+    "Automation solutions"
+  ],
+  "missing_keywords": [
+    "Customer behaviour",
+    "Financial Models",
+    "Consulting"
+  ],
+  "recommended_resume_keywords": [
+    "Financial Modeling / BOM Cost Modeling",
+    "Customer Behaviour & Cohort Analysis",
+    "Executive Presentations & Founder Updates",
+    "Go-To-Market (GTM) Strategy",
+    "Cross-functional Project Management"
+  ],
+  "recommended_experiences": [
+    "Highlight the Associate – Founder’s Office role at Nutrabay Retail Pvt. Ltd., emphasizing cross-functional coordination across Sales, Finance, Supply Chain, and HR.",
+    "Emphasize the Program Manager role at Dakshana India Educational Trust Fund to showcase extensive 4+ years program management and cost optimization.",
+    "Surface the Founder’s Office Intern role at MokkoMotto Electronics to highlight direct GTM and revenue generation metrics (₹18L+ orders)."
+  ],
+  "recommended_projects": [
+    "AI-Powered Scheduled Reporting Workflows & Price Tracker (Nutrabay) - highlights Power BI, pricing analysis, and executive visibility.",
+    "Product Master Cost Sheet & BOM Intelligence (Nutrabay) - demonstrates financial/cost modeling and pricing intelligence.",
+    "Vendor-Slot Booking Platform (Nutrabay) - proves ability to automate processes and eliminate manual operational bottlenecks."
+  ],
+  "skill_gaps": [
+    "Explicit multi-statement financial modeling (candidate has BOM cost modeling and TCO evaluation).",
+    "Direct customer behaviour / cohort analysis metrics (candidate has sales trend and distributor productivity tracking)."
+  ],
+  "priority_changes": [
+    "Frame the Product Master Cost Sheet and TCO evaluation explicitly under 'Financial Modeling & Cost Analysis'.",
+    "Explicitly mention executive updates, slide decks, and board presentations prepared for founders when detailing reporting workflows.",
+    "Highlight D2C consumer brand context at Nutrabay prominently, as NovaWell is a consumer brand company."
+  ]
+}

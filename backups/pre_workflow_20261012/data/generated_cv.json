@@ -1,0 +1,103 @@
+{
+  "name": "VISHAL KUMAR",
+  "email": "kumarvishal9341@gmail.com",
+  "phone": "+91 9590311151",
+  "linkedin": "linkedin.com/in/vishalk23",
+  "location": "Delhi NCR",
+  "targeted_headline": "Associate – Founder’s Office | Strategy & Business Operations",
+  "targeted_summary": "Strategy and Business Operations professional with 5+ years of experience across D2C, education, and technology ventures, including Founder’s Office experience at Nutrabay. Proven track record of translating leadership priorities into execution, driving AI automation, streamlining procurement and sales operations, and building real-time dashboards to improve business performance.",
+  "core_expertise": [
+    "Strategic Initiatives & Operations",
+    "Founder’s Office Execution",
+    "Cross-functional Collaboration",
+    "Process Improvement & SOPs",
+    "KPI & OKR Frameworks",
+    "Procurement Analytics",
+    "Business Intelligence & Reporting",
+    "Workflow Automation"
+  ],
+  "tools_and_technologies": [
+    "Analytics & BI: Power BI, Microsoft Excel, SQL",
+    "Automation & AI: Google Apps Script, Gemini APIs, Crest AI, Claude",
+    "Operations & HR Tech: Keka, Slack, Google Workspace, Google Endpoint Management",
+    "Platforms & Web: GitHub, Netlify"
+  ],
+  "experience": [
+    {
+      "company": "Nutrabay Retail Pvt. Ltd.",
+      "role": "Associate – Founder’s Office",
+      "dates": "Jul’25 – Present",
+      "focus": "Operations Strategy, AI Automation, Procurement Analytics, Cross-functional Program Management",
+      "bullets": [
+        "Partnered with Procurement, Sales, Finance, HR, Product, Supply Chain, and Technology leadership to identify automation opportunities, standardize processes, and drive operational improvements.",
+        "Built a vendor-slot booking platform using Google Apps Script and Gemini APIs for raw-material suppliers and manufacturers, reducing manual coordination by 90% and cutting warehouse waiting times.",
+        "Built Power BI dashboards for Offline Sales, enabling leadership to track distributor productivity, sales trends, regional performance, and key business metrics through real-time reporting.",
+        "Developed procurement analytics dashboards tracking RM pricing trends, supplier performance, and purchase efficiency; supported NPD initiatives through market research and competitor benchmarking.",
+        "Led end-to-end implementation of Crest AI for Procurement and an offline-sales automation platform, managing BRDs, UAT, vendor coordination, and rollout.",
+        "Redesigned the company OKR framework to cascade executive priorities into department and employee KPIs, establishing transparent tracking to support performance assessments.",
+        "Constructed a centralized Product Master Cost Sheet covering raw materials, packaging, BOM, manufacturing costs, and pricing intelligence to strengthen procurement decisions.",
+        "Converted 20+ SOPs into AI-generated multilingual training modules using Google AI tools, improving onboarding efficiency and operational process compliance."
+      ]
+    },
+    {
+      "company": "Dakshana India Educational Trust Fund",
+      "role": "Program Manager – Operations & Strategy",
+      "dates": "Oct 2018 - May 2023",
+      "focus": "Program Management, Operational Efficiency, Process Standardization, Leadership Collaboration",
+      "bullets": [
+        "Directed operational programs and test operations in collaboration with senior leadership, reducing overall operating costs by 20%.",
+        "Improved operational efficiency across educational initiatives by standardizing core processes and enhancing operational compliance.",
+        "Increased adoption of performance dashboards across operations teams, driving data-informed decisions and systematic program tracking."
+      ]
+    },
+    {
+      "company": "MokkoMotto Electronics Pvt. Ltd.",
+      "role": "Founder’s Office Intern",
+      "dates": "Sep’24 – Apr’25",
+      "focus": "GTM Strategy, B2B Sales, Vendor Onboarding, Growth Initiatives",
+      "bullets": [
+        "Executed B2B sales development and vendor onboarding initiatives, securing ₹18L+ in business orders.",
+        "Implemented growth and digital optimization strategies, improving website SEO score from 54 to 95 to increase organic visibility."
+      ]
+    },
+    {
+      "company": "1-Cliq",
+      "role": "Business Strategy Intern",
+      "dates": "Apr’24 – May’24",
+      "focus": "Market Research, E-commerce Strategy, Vendor Onboarding",
+      "bullets": [
+        "Conducted TAM and competitor benchmarking analysis to identify expansion opportunities for an e-commerce pilot.",
+        "Onboarded 20+ vendors to scale supplier network capacity and support commercial launch planning."
+      ]
+    }
+  ],
+  "achievements": [
+    "PPO (President's Prize for Outstanding Achievement) for contributions to organizational growth and innovation.",
+    "Best Employee Award for outstanding performance and leadership in program management.",
+    "Full Scholarship awarded for academic excellence during B.Tech. at NIT Karnataka.",
+    "Winner of the State Level Badminton Championship."
+  ],
+  "leadership": [
+    "Academic Manager, Dakshana India Educational Trust Fund (Oct’19 – May’23)",
+    "Vice President, Dakshana India Educational Trust Fund (Oct’19 – May’23)",
+    "Choreography Lead, University Sports Club (2018–2020)"
+  ],
+  "certifications": [
+    "Lean Six Sigma Green Belt",
+    "Google Data Analytics Professional Certificate",
+    "Digital Marketing",
+    "Agile Fundamentals",
+    "PMP Exam Preparation Course",
+    "Microsoft Excel: Beginner to Expert"
+  ],
+  "education": {
+    "mba_degree": "MBA",
+    "mba_institution": "Indian Institute of Technology (IIT), Kanpur",
+    "mba_duration": "2023–2025",
+    "mba_score": "8.00",
+    "btech_degree": "B.Tech.",
+    "btech_institution": "National Institute of Technology (NIT), Karnataka",
+    "btech_duration": "2014–2018",
+    "btech_score": "6.25"
+  }
+}

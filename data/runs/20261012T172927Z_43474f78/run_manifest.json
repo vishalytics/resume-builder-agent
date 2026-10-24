@@ -1,0 +1,176 @@
+{
+  "run_id": "20261012T172927Z_43474f78",
+  "status": "completed",
+  "created_at": "2026-10-12T17:29:27+00:00",
+  "base_fingerprint": "26435536d7e8e8ae1d145e2bc978ef427b51fb938ddcf2b159c95f30d46a373e",
+  "input": {
+    "job_description_sha256": "d60cf2060fad8aa1dfb6969272e3c7b3afa440f5965331e6ff8d7df737fae543",
+    "resume_evidence_sha256": "7bfed2ea37842f252eeb2cf213e12f996216dc7ce1ace095925c572ef5358d39",
+    "master_resume_sha256": "b771ef5b21a761e9dc2a181a56c172dca66880044b35e8794c9daa85d1f67884"
+  },
+  "stages": {
+    "jd_analysis": {
+      "status": "fresh",
+      "input_fingerprint": "982873c6cecb42c2433c61802060e1d320ae6904da35867d32f97de82a0117b5",
+      "started_at": "2026-10-12T17:29:27+00:00",
+      "model_attempts": [
+        {
+          "stage": "jd_analysis",
+          "model": "gemini-3.1-flash-lite",
+          "attempt": 1,
+          "task_attempt": 1,
+          "outcome": "success",
+          "error_classification": "none"
+        }
+      ],
+      "completed_at": "2026-10-12T17:29:42+00:00",
+      "artifact": "data\\runs\\20261012T172927Z_43474f78\\jd_analysis.json"
+    },
+    "resume_matching": {
+      "status": "fresh",
+      "input_fingerprint": "d0acbe18771e7ee4117bc478ab98755d59707415348429d23951e76647fab69d",
+      "started_at": "2026-10-12T17:29:42+00:00",
+      "model_attempts": [
+        {
+          "stage": "resume_matching",
+          "model": "gemini-3.1-flash-lite",
+          "attempt": 1,
+          "task_attempt": 1,
+          "outcome": "success",
+          "error_classification": "none"
+        }
+      ],
+      "completed_at": "2026-10-12T17:30:02+00:00",
+      "artifact": "data\\runs\\20261012T172927Z_43474f78\\resume_jd_match.json"
+    },
+    "cv_generation": {
+      "status": "fresh",
+      "input_fingerprint": "983a14b5db6506f6a827726182c79333e8f4e5349fb6ea9237d5d6000c0639fd",
+      "started_at": "2026-10-12T17:30:02+00:00",
+      "model_attempts": [
+        {
+          "stage": "cv_generation",
+          "model": "gemini-3.1-flash-lite",
+          "attempt": 1,
+          "task_attempt": 1,
+          "outcome": "success",
+          "error_classification": "none"
+        }
+      ],
+      "completed_at": "2026-10-12T17:30:26+00:00",
+      "artifact": "data\\runs\\20261012T172927Z_43474f78\\generated_cv.json"
+    },
+    "cv_document": {
+      "status": "fresh",
+      "input_fingerprint": "09870d6a03292411597f8e5f62b8b6d9efa59e28a627bc1bc88a79bdce3ab06c",
+      "started_at": "2026-10-12T17:30:26+00:00",
+      "completed_at": "2026-10-12T17:30:26+00:00",
+      "artifact": "output\\runs\\20261012T172927Z_43474f78\\VISHAL_KUMAR_Operations_Strategy_Associate_CV.docx"
+    },
+    "interview_preparation": {
+      "status": "fresh",
+      "input_fingerprint": "a3d21f72f468a29fc8d4b079a9a79ca128c67d79d57ae50500db75f3490a24df",
+      "started_at": "2026-10-12T17:30:26+00:00",
+      "model_attempts": [
+        {
+          "stage": "interview_preparation",
+          "model": "gemini-3.1-flash-lite",
+          "attempt": 1,
+          "task_attempt": 1,
+          "outcome": "invalid_output",
+          "error_classification": "invalid_output"
+        },
+        {
+          "stage": "interview_preparation",
+          "model": "gemini-3.1-flash-lite",
+          "attempt": 2,
+          "task_attempt": 2,
+          "outcome": "invalid_output",
+          "error_classification": "invalid_output"
+        },
+        {
+          "stage": "interview_preparation",
+          "model": "gemini-3.5-flash-lite",
+          "attempt": 1,
+          "task_attempt": 3,
+          "outcome": "success",
+          "error_classification": "none"
+        }
+      ],
+      "completed_at": "2026-10-12T17:32:00+00:00",
+      "artifact": "data\\runs\\20261012T172927Z_43474f78\\interview_preparation.json"
+    },
+    "interview_document": {
+      "status": "fresh",
+      "input_fingerprint": "c9d8552c3db3acc2b35761657bb373ea5b73fe02dac925688e12ed9835ce32cc",
+      "started_at": "2026-10-12T17:32:00+00:00",
+      "completed_at": "2026-10-12T17:32:00+00:00",
+      "artifact": "output\\runs\\20261012T172927Z_43474f78\\VISHAL_KUMAR_Operations_Strategy_Associate_Interview_Preparation.docx"
+    },
+    "ats_report": {
+      "status": "fresh",
+      "input_fingerprint": "663526a36e06bcbf8a803f8a9664c45330bf9faa00be785dc69531cb4cfcee9e",
+      "started_at": "2026-10-12T17:32:00+00:00",
+      "model_attempts": [],
+      "completed_at": "2026-10-12T17:32:00+00:00",
+      "artifact": "output\\runs\\20261012T172927Z_43474f78\\ats_report.json"
+    }
+  },
+  "outputs": {
+    "cv": "output\\runs\\20261012T172927Z_43474f78\\VISHAL_KUMAR_Operations_Strategy_Associate_CV.docx",
+    "interview": "output\\runs\\20261012T172927Z_43474f78\\VISHAL_KUMAR_Operations_Strategy_Associate_Interview_Preparation.docx",
+    "ats_report": "output\\runs\\20261012T172927Z_43474f78\\ats_report.json"
+  },
+  "model_attempts": [
+    {
+      "stage": "jd_analysis",
+      "model": "gemini-3.1-flash-lite",
+      "attempt": 1,
+      "task_attempt": 1,
+      "outcome": "success",
+      "error_classification": "none"
+    },
+    {
+      "stage": "resume_matching",
+      "model": "gemini-3.1-flash-lite",
+      "attempt": 1,
+      "task_attempt": 1,
+      "outcome": "success",
+      "error_classification": "none"
+    },
+    {
+      "stage": "cv_generation",
+      "model": "gemini-3.1-flash-lite",
+      "attempt": 1,
+      "task_attempt": 1,
+      "outcome": "success",
+      "error_classification": "none"
+    },
+    {
+      "stage": "interview_preparation",
+      "model": "gemini-3.1-flash-lite",
+      "attempt": 1,
+      "task_attempt": 1,
+      "outcome": "invalid_output",
+      "error_classification": "invalid_output"
+    },
+    {
+      "stage": "interview_preparation",
+      "model": "gemini-3.1-flash-lite",
+      "attempt": 2,
+      "task_attempt": 2,
+      "outcome": "invalid_output",
+      "error_classification": "invalid_output"
+    },
+    {
+      "stage": "interview_preparation",
+      "model": "gemini-3.5-flash-lite",
+      "attempt": 1,
+      "task_attempt": 3,
+      "outcome": "success",
+      "error_classification": "none"
+    }
+  ],
+  "updated_at": "2026-10-12T17:32:00+00:00",
+  "completed_at": "2026-10-12T17:32:00+00:00"
+}

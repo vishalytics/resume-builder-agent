@@ -1,0 +1,416 @@
+{
+  "generated_at": "2026-10-12T23:14:30",
+  "job_title": "Associate – Strategy & Business Operations",
+  "company": "NovaWell Consumer Brands",
+  "ats_compatibility_score": 27,
+  "score_note": "Heuristic estimate = 50% required-skill coverage + 15% preferred-skill coverage + 35% coverage of all listed JD terms. Empty groups score 0%. This is not an actual score from an employer's ATS.",
+  "keyword_coverage": {
+    "required_skills_percent": 0.0,
+    "preferred_skills_percent": 54.5,
+    "all_jd_terms_percent": 55.2,
+    "matched_count": 37,
+    "total_count": 67
+  },
+  "structure_score_percent": 100,
+  "section_checks": {
+    "Candidate name": true,
+    "Professional headline": true,
+    "Professional summary": true,
+    "Core expertise": true,
+    "Work experience": true,
+    "Education": true,
+    "Certifications": true
+  },
+  "matched_keywords": [
+    {
+      "keyword": "MBA",
+      "category": "Preferred skills"
+    },
+    {
+      "keyword": "SQL",
+      "category": "Preferred skills"
+    },
+    {
+      "keyword": "Process automation",
+      "category": "Preferred skills"
+    },
+    {
+      "keyword": "Procurement analytics",
+      "category": "Preferred skills"
+    },
+    {
+      "keyword": "Pricing",
+      "category": "Preferred skills"
+    },
+    {
+      "keyword": "Unit economics",
+      "category": "Preferred skills"
+    },
+    {
+      "keyword": "Excel",
+      "category": "Tools and technologies"
+    },
+    {
+      "keyword": "Power BI",
+      "category": "Tools and technologies"
+    },
+    {
+      "keyword": "AI tools",
+      "category": "Tools and technologies"
+    },
+    {
+      "keyword": "APIs",
+      "category": "Tools and technologies"
+    },
+    {
+      "keyword": "Strategy & Business Operations",
+      "category": "Domain keywords"
+    },
+    {
+      "keyword": "D2C",
+      "category": "Domain keywords"
+    },
+    {
+      "keyword": "E-commerce",
+      "category": "Domain keywords"
+    },
+    {
+      "keyword": "Retail",
+      "category": "Domain keywords"
+    },
+    {
+      "keyword": "Procurement",
+      "category": "Domain keywords"
+    },
+    {
+      "keyword": "Supply chain",
+      "category": "Domain keywords"
+    },
+    {
+      "keyword": "Strategy",
+      "category": "ATS keywords"
+    },
+    {
+      "keyword": "Business Operations",
+      "category": "ATS keywords"
+    },
+    {
+      "keyword": "Program management",
+      "category": "ATS keywords"
+    },
+    {
+      "keyword": "Data-driven",
+      "category": "ATS keywords"
+    },
+    {
+      "keyword": "Operational efficiency",
+      "category": "ATS keywords"
+    },
+    {
+      "keyword": "Automation",
+      "category": "ATS keywords"
+    },
+    {
+      "keyword": "Cross-functional",
+      "category": "ATS keywords"
+    },
+    {
+      "keyword": "SOPs",
+      "category": "ATS keywords"
+    },
+    {
+      "keyword": "KPIs",
+      "category": "ATS keywords"
+    },
+    {
+      "keyword": "Workflow automation",
+      "category": "ATS keywords"
+    },
+    {
+      "keyword": "Support",
+      "category": "Important action verbs"
+    },
+    {
+      "keyword": "Conduct",
+      "category": "Important action verbs"
+    },
+    {
+      "keyword": "Build",
+      "category": "Important action verbs"
+    },
+    {
+      "keyword": "Track",
+      "category": "Important action verbs"
+    },
+    {
+      "keyword": "Identify",
+      "category": "Important action verbs"
+    },
+    {
+      "keyword": "Implement",
+      "category": "Important action verbs"
+    },
+    {
+      "keyword": "Develop",
+      "category": "Important action verbs"
+    },
+    {
+      "keyword": "Coordinate",
+      "category": "Important action verbs"
+    },
+    {
+      "keyword": "Analyse",
+      "category": "Important action verbs"
+    },
+    {
+      "keyword": "Drive",
+      "category": "Important action verbs"
+    },
+    {
+      "keyword": "Manage",
+      "category": "Important action verbs"
+    }
+  ],
+  "missing_keywords": [
+    {
+      "keyword": "Advanced Excel skills (data analysis, lookup functions, pivot tables, and financial analysis)",
+      "category": "Required skills",
+      "evidence_status": "not_verified_in_resume_evidence"
+    },
+    {
+      "keyword": "Experience building dashboards and interpreting business performance metrics",
+      "category": "Required skills",
+      "evidence_status": "not_verified_in_resume_evidence"
+    },
+    {
+      "keyword": "Strong analytical thinking",
+      "category": "Required skills",
+      "evidence_status": "not_verified_in_resume_evidence"
+    },
+    {
+      "keyword": "Structured problem-solving",
+      "category": "Required skills",
+      "evidence_status": "not_verified_in_resume_evidence"
+    },
+    {
+      "keyword": "Attention to detail",
+      "category": "Required skills",
+      "evidence_status": "not_verified_in_resume_evidence"
+    },
+    {
+      "keyword": "Cross-functional project management",
+      "category": "Required skills",
+      "evidence_status": "not_verified_in_resume_evidence"
+    },
+    {
+      "keyword": "Stakeholder management",
+      "category": "Required skills",
+      "evidence_status": "not_verified_in_resume_evidence"
+    },
+    {
+      "keyword": "Excellent written communication",
+      "category": "Required skills",
+      "evidence_status": "not_verified_in_resume_evidence"
+    },
+    {
+      "keyword": "Presentation skills",
+      "category": "Required skills",
+      "evidence_status": "not_verified_in_resume_evidence"
+    },
+    {
+      "keyword": "Ability to turn ambiguous business problems into structured execution plans",
+      "category": "Required skills",
+      "evidence_status": "not_verified_in_resume_evidence"
+    },
+    {
+      "keyword": "Working knowledge of Power BI",
+      "category": "Preferred skills",
+      "evidence_status": "not_verified_in_resume_evidence"
+    },
+    {
+      "keyword": "Business intelligence tools",
+      "category": "Preferred skills",
+      "evidence_status": "not_verified_in_resume_evidence"
+    },
+    {
+      "keyword": "Experience with AI-assisted workflows",
+      "category": "Preferred skills",
+      "evidence_status": "not_verified_in_resume_evidence"
+    },
+    {
+      "keyword": "API integrations",
+      "category": "Preferred skills",
+      "evidence_status": "not_verified_in_resume_evidence"
+    },
+    {
+      "keyword": "Inventory planning",
+      "category": "Preferred skills",
+      "evidence_status": "not_verified_in_resume_evidence"
+    },
+    {
+      "keyword": "Low-code platforms",
+      "category": "Tools and technologies",
+      "evidence_status": "not_verified_in_resume_evidence"
+    },
+    {
+      "keyword": "FMCG",
+      "category": "Domain keywords",
+      "evidence_status": "not_verified_in_resume_evidence"
+    },
+    {
+      "keyword": "Consumer brands",
+      "category": "Domain keywords",
+      "evidence_status": "not_verified_in_resume_evidence"
+    },
+    {
+      "keyword": "Inventory",
+      "category": "Domain keywords",
+      "evidence_status": "supported_in_resume_not_presented_in_cv"
+    },
+    {
+      "keyword": "Sales trends",
+      "category": "Domain keywords",
+      "evidence_status": "not_verified_in_resume_evidence"
+    },
+    {
+      "keyword": "SKU performance",
+      "category": "Domain keywords",
+      "evidence_status": "not_verified_in_resume_evidence"
+    },
+    {
+      "keyword": "Digital transformation",
+      "category": "Domain keywords",
+      "evidence_status": "not_verified_in_resume_evidence"
+    },
+    {
+      "keyword": "Consulting",
+      "category": "ATS keywords",
+      "evidence_status": "not_verified_in_resume_evidence"
+    },
+    {
+      "keyword": "Process improvement",
+      "category": "ATS keywords",
+      "evidence_status": "not_verified_in_resume_evidence"
+    },
+    {
+      "keyword": "Evaluate",
+      "category": "Important action verbs",
+      "evidence_status": "not_verified_in_resume_evidence"
+    },
+    {
+      "keyword": "Monitor",
+      "category": "Important action verbs",
+      "evidence_status": "not_verified_in_resume_evidence"
+    },
+    {
+      "keyword": "Define",
+      "category": "Important action verbs",
+      "evidence_status": "not_verified_in_resume_evidence"
+    },
+    {
+      "keyword": "Translate",
+      "category": "Important action verbs",
+      "evidence_status": "not_verified_in_resume_evidence"
+    },
+    {
+      "keyword": "Collaborate",
+      "category": "Important action verbs",
+      "evidence_status": "not_verified_in_resume_evidence"
+    },
+    {
+      "keyword": "Document",
+      "category": "Important action verbs",
+      "evidence_status": "not_verified_in_resume_evidence"
+    }
+  ],
+  "relevant_experience_evidence": {
+    "strong_matches": [
+      {
+        "requirement": "Strategy & Business Operations",
+        "category": "Domain",
+        "evidence": "Founder’s Office role at Nutrabay; experience in translating leadership priorities into cross-functional programs spanning operations, procurement, sales, NPD, analytics, AI automation and process transformation.",
+        "company": "Nutrabay Retail Pvt. Ltd.",
+        "role": "Associate – Founder’s Office",
+        "project": "Founder's Office Strategy & Operations",
+        "metrics": [
+          "5+ years of experience"
+        ]
+      }
+    ],
+    "partial_matches": [
+      {
+        "requirement": "Procurement and supply chain operations",
+        "category": "Domain",
+        "evidence": "Led implementation of Crest AI for Procurement; built procurement analytics dashboards tracking supplier performance, RM pricing trends, purchase efficiency.",
+        "gap": "Experience is strong on the analytical and tech-enabler side of procurement, less focused on direct, large-scale supply chain logistics or inventory warehousing management.",
+        "company": "Nutrabay Retail Pvt. Ltd.",
+        "role": "Associate – Founder’s Office",
+        "metrics": []
+      }
+    ]
+  },
+  "unsupported_or_unverified_requirements": [
+    {
+      "requirement": "Unit economics and deep inventory planning",
+      "category": "Domain",
+      "reason": "Resume mentions procurement cost visibility and BOM cost sheets but lacks explicit evidence of managing inventory planning, shelf-life, or unit-level economic modeling at scale."
+    },
+    {
+      "requirement": "Pricing strategy",
+      "category": "Domain",
+      "reason": "Candidate has worked on pricing intelligence and an online/offline price tracker, but explicit ownership of pricing strategy (margin setting, dynamic pricing modeling) is not documented."
+    },
+    {
+      "requirement": "Build and maintain dashboards using Excel and Power BI",
+      "reason": "Model-suggested evidence did not pass deterministic resume/JD verification."
+    },
+    {
+      "requirement": "Identify repetitive workflows suitable for automation using AI tools, APIs, low-code platforms, or scripting",
+      "reason": "Model-suggested evidence did not pass deterministic resume/JD verification."
+    },
+    {
+      "requirement": "Develop standard operating procedures (SOPs) and establish performance measurement frameworks",
+      "reason": "Model-suggested evidence did not pass deterministic resume/JD verification."
+    },
+    {
+      "requirement": "MBA",
+      "reason": "Model-suggested evidence did not pass deterministic resume/JD verification."
+    },
+    {
+      "requirement": "Market research, competitor benchmarking, and business analysis",
+      "reason": "Model-suggested evidence did not pass deterministic resume/JD verification."
+    }
+  ],
+  "matching_recommendations": [
+    "Keep 'Advanced Excel skills (data analysis, lookup functions, pivot tables, and financial analysis)' unclaimed unless the candidate can verify supporting experience or qualification.",
+    "Keep 'Experience building dashboards and interpreting business performance metrics' unclaimed unless the candidate can verify supporting experience or qualification.",
+    "Keep 'Strong analytical thinking' unclaimed unless the candidate can verify supporting experience or qualification.",
+    "Keep 'Structured problem-solving' unclaimed unless the candidate can verify supporting experience or qualification.",
+    "Keep 'Attention to detail' unclaimed unless the candidate can verify supporting experience or qualification.",
+    "Keep 'Cross-functional project management' unclaimed unless the candidate can verify supporting experience or qualification.",
+    "Keep 'Stakeholder management' unclaimed unless the candidate can verify supporting experience or qualification.",
+    "Keep 'Excellent written communication' unclaimed unless the candidate can verify supporting experience or qualification.",
+    "Keep 'Presentation skills' unclaimed unless the candidate can verify supporting experience or qualification.",
+    "Keep 'Ability to turn ambiguous business problems into structured execution plans' unclaimed unless the candidate can verify supporting experience or qualification.",
+    "Keep 'Working knowledge of Power BI' unclaimed unless the candidate can verify supporting experience or qualification.",
+    "Keep 'Business intelligence tools' unclaimed unless the candidate can verify supporting experience or qualification.",
+    "Keep 'Experience with AI-assisted workflows' unclaimed unless the candidate can verify supporting experience or qualification.",
+    "Keep 'API integrations' unclaimed unless the candidate can verify supporting experience or qualification.",
+    "Keep 'Inventory planning' unclaimed unless the candidate can verify supporting experience or qualification.",
+    "Keep 'Low-code platforms' unclaimed unless the candidate can verify supporting experience or qualification.",
+    "Keep 'FMCG' unclaimed unless the candidate can verify supporting experience or qualification.",
+    "Keep 'Consumer brands' unclaimed unless the candidate can verify supporting experience or qualification.",
+    "Consider presenting the verified resume evidence for 'Inventory' in the CV where it fits naturally.",
+    "Keep 'Sales trends' unclaimed unless the candidate can verify supporting experience or qualification.",
+    "Keep 'SKU performance' unclaimed unless the candidate can verify supporting experience or qualification.",
+    "Keep 'Digital transformation' unclaimed unless the candidate can verify supporting experience or qualification.",
+    "Keep 'Consulting' unclaimed unless the candidate can verify supporting experience or qualification.",
+    "Keep 'Process improvement' unclaimed unless the candidate can verify supporting experience or qualification."
+  ],
+  "priority_actions": [
+    "Review missing required skills. Add them only where supported by genuine experience or qualifications.",
+    "Review preferred skills and include relevant evidence where accurate.",
+    "Review the highest-priority missing keywords and revise the CV without inventing experience."
+  ],
+  "run_id": "20261012T174124Z_5b329e6c"
+}
